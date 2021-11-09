@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/cb091cb03bdf11ecab18000017025a03/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"What’s Emerging From the Melting Ice?","status":1,"alt":"Franz Lidz","src":"https://static01.nyt.com/images/2021/11/02/science/author-franz-lidz/author-franz-lidz-thumbStandard.jpg","source":"nytime","menu":"science","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/01/science/01glacial-sidebar-opener/01glacial-sidebar-opener-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/11/02/science/climate-glaciers-archaeology.html","description":"As global temperatures rise, permafrost and glaciers are rapidly thawing and eroding, releasing ancient animal remains and human artifacts.","country":"us","create_time":"2021-11-02T05:22:01.000Z","content":"[]","href_hash":"cb091cb03bdf11ecab18000017025a03"}}]}},"pageContext":{"slug":"cb091cb03bdf11ecab18000017025a03"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
