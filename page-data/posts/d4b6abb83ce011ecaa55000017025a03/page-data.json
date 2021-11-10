@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/d4b6abb83ce011ecaa55000017025a03/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Who Can Make mRNA Vaccines?","status":1,"alt":"Stephanie Nolen","src":"https://static01.nyt.com/images/2021/10/22/reader-center/author-stephanie-nolen/author-stephanie-nolen-thumbStandard.png","source":"nytime","menu":"health","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/02/autossell/Untitled/Untitled-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/11/03/health/mrna-vaccine-production.html","description":"Many health advocates say a key solution is to make the shots in the regions that still don’t have them. I wanted to know whether there were companies that could do it.","country":"us","create_time":"2021-11-03T20:02:01.000Z","content":"[]","href_hash":"d4b6abb83ce011ecaa55000017025a03"}}]}},"pageContext":{"slug":"d4b6abb83ce011ecaa55000017025a03"}},
-    "staticQueryHashes": ["3649515864","764694655"]}

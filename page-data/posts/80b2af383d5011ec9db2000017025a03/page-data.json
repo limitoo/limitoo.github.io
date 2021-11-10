@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/80b2af383d5011ec9db2000017025a03/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"COP26 Live Updates: End of Coal Power 'In Sight' As Over 40 Countries Agree to Quit","status":1,"alt":"","src":"https://d.newsweek.com/en/full/1925985/over-40-countries-agree-quit-coal.webp","source":"newsweek","menu":"world","local_src":"","load_img":"","img_url":"https://d.newsweek.com/en/full/1925985/over-40-countries-agree-quit-coal.webp","href":"https://www.newsweek.com//cop26-live-updates-coal-countries-us-china-1645775","description":"The end of coal power is \"in sight\" as over 40 countries agree to quit the polluting power source before 2050 - but major players including the U.S. are refusing to sign up. Follow Newsweek's liveblog for all the latest.","country":"us","create_time":"2021-11-04T09:21:11.000Z","content":"[]","href_hash":"80b2af383d5011ec9db2000017025a03"}}]}},"pageContext":{"slug":"80b2af383d5011ec9db2000017025a03"}},
-    "staticQueryHashes": ["3649515864","764694655"]}

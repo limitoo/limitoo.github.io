@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/ff5d727c41f711ec9ed6000017025a03/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Timeline: Terror at the shopping mall","status":1,"alt":"","src":"https://www.rnz.co.nz/assets/news/274885/eight_col_high_DRUG-OFFENCES-NS.jpg?1631680623","source":"rnz","menu":"in-depth","local_src":"","load_img":"","img_url":"https://www.rnz.co.nz/assets/news/274064/three_col_LYNNMALL-16x10.jpg?1630705873","href":"https://www.rnz.co.nz/programmes/in-depth-special-projects/story/2018811013/terror-at-the-shopping-mall-a-timeline-of-the-lynnmall-knife-attack","description":"In just two and a half minutes, a terrorist injured seven people before police shot and killed him. Veronica Schmidt reports on the fast-moving events of Friday afternoon.","country":"nz","create_time":"2021-11-10T07:32:58.000Z","content":"[]","href_hash":"ff5d727c41f711ec9ed6000017025a03"}}]}},"pageContext":{"slug":"ff5d727c41f711ec9ed6000017025a03"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
