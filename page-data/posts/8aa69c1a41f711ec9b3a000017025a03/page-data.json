@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/8aa69c1a41f711ec9b3a000017025a03/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Kenneth Branagh Is Finally Processing His Childhood Trauma","status":1,"alt":null,"src":"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7","source":"nytime","menu":"magazine","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/07/magazine/07mag-talk/07mag-talk-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/11/01/magazine/kenneth-branagh-interview.html","description":"“I hesitate to use the word … a cardinal sin for my parents was to be suggesting that anything you’d been through was worthy of categorizing in such a way.”","country":"us","create_time":"2021-11-10T07:27:51.000Z","content":"[]","href_hash":"8aa69c1a41f711ec9b3a000017025a03"}}]}},"pageContext":{"slug":"8aa69c1a41f711ec9b3a000017025a03"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
