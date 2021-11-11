@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/70799e5c3da411ecb141000017025a03/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"What’s in Our Queue? ‘Real Housewives’ and More","status":1,"alt":"Caryn Ganz","src":"https://static01.nyt.com/images/2018/11/09/multimedia/author-caryn-ganz/author-caryn-ganz-thumbStandard.png","source":"nytime","menu":"arts","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/07/arts/04editors-recommendations-housewives/04editors-recommendations-housewives-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/11/04/arts/editors-recommendations-real-housewives.html","description":"I'm The Times's pop music editor. Here are five things I've been watching, reading and listening to.","country":"us","create_time":"2021-11-04T19:22:08.000Z","content":"[]","href_hash":"70799e5c3da411ecb141000017025a03"}}]}},"pageContext":{"slug":"70799e5c3da411ecb141000017025a03"}},
-    "staticQueryHashes": ["3649515864","764694655"]}
