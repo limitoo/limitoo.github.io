@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/2fa0bcb63e8611ec8ce8bfa507287c42/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"How Hospitals Fuel Climate Change","status":1,"alt":"Winston Choi-Schagrin","src":"https://static01.nyt.com/images/2021/07/01/climate/author-winston-choi-schagrin/author-winston-choi-schagrin-thumbStandard.jpg","source":"nytime","menu":"health","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/05/climate/00BURST-cli-healthcare-emissions1/00BURST-cli-healthcare-emissions1-videoLarge-v3.jpg","href":"https://www.nytimes.com/interactive/2021/11/05/climate/climate-change-health.html","description":"The health care industry is a large source of greenhouse gases.","country":"us","create_time":"2021-11-05T22:18:26.000Z","content":"[]","href_hash":"2fa0bcb63e8611ec8ce8bfa507287c42"}}]}},"pageContext":{"slug":"2fa0bcb63e8611ec8ce8bfa507287c42"}},
-    "staticQueryHashes": ["3649515864","764694655"]}
