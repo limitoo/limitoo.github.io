@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/85eeddc33e2d11ecacd85b340c559eaa/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Spending Bill Live Updates: House Democrats Set to Vote on $1.85tn Package","status":1,"alt":"","src":"https://d.newsweek.com/en/full/1926881/nancy-pelosi-shores-spending-bill-votes.webp","source":"newsweek","menu":"us","local_src":"","load_img":"","img_url":"https://d.newsweek.com/en/full/1926881/nancy-pelosi-shores-spending-bill-votes.webp","href":"https://www.newsweek.com//spending-bill-house-democrats-vote-live-updates-1646259","description":"House Democrats are set to vote on both the social spending and infrastructure bills after weeks of intense negotiations. Follow Newsweek's liveblog for all the latest.","country":"us","create_time":"2021-11-05T11:43:44.000Z","content":"[]","href_hash":"85eeddc33e2d11ecacd85b340c559eaa"}}]}},"pageContext":{"slug":"85eeddc33e2d11ecacd85b340c559eaa"}},
-    "staticQueryHashes": ["3649515864","764694655"]}
