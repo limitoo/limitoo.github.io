@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/c3a17e513e1811ecb8510f28b00ffebd/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"5 Things to Do This Weekend","status":1,"alt":"Danielle Dowling","src":"https://static01.nyt.com/images/2021/08/11/arts/author-danielle-dowling/author-danielle-dowling-thumbStandard.jpg","source":"nytime","menu":"arts","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/05/arts/05wkd-ttd-spencer/05wkd-ttd-spencer-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/11/05/arts/weekend-editors-picks-spencer-princess-diana.html","description":"Selections from the current Weekend section, including a review of “Spencer,” Pablo Larraín’s new film about Princess Diana. ","country":"us","create_time":"2021-11-05T09:15:03.000Z","content":"[]","href_hash":"c3a17e513e1811ecb8510f28b00ffebd"}}]}},"pageContext":{"slug":"c3a17e513e1811ecb8510f28b00ffebd"}},
-    "staticQueryHashes": ["3649515864","764694655"]}
