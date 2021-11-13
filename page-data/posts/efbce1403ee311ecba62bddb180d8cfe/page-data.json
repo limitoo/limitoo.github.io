@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/efbce1403ee311ecba62bddb180d8cfe/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Behind the Scenes: Police Traffic Stops","status":1,"alt":"Kim Barker","src":"https://static01.nyt.com/images/2018/06/13/multimedia/author-kim-barker/author-kim-barker-thumbStandard.jpg","source":"nytime","menu":"us","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/05/multimedia/05burst-inv1/05burst-inv1-videoLarge-v2.jpg","href":"https://www.nytimes.com/interactive/2021/11/06/us/police-traffic-stops-behind-the-scenes.html","description":"I drove to Alabama and met one of my colleagues, Donovan Thomas. Here’s what happened.","country":"us","create_time":"2021-11-06T09:29:57.000Z","content":"[]","href_hash":"efbce1403ee311ecba62bddb180d8cfe"}}]}},"pageContext":{"slug":"efbce1403ee311ecba62bddb180d8cfe"}},
-    "staticQueryHashes": ["3649515864","764694655"]}
