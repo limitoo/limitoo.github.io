@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/a8c4e7bc40dd11ecb56e5194201ccc50/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"New York’s cultural institutions have a lot at stake as international visitors return.","status":1,"alt":null,"src":"https://static01.nyt.com/images/2021/11/08/lens/08virus-briefing-travel-carousel3/08virus-briefing-travel-carousel3-square640.jpg","source":"nytime","menu":"arts","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/08/world/08virus-briefing-nyc-travel-culture/merlin_196911051_e850c6e7-8775-4f05-939d-02816a83dbbd-videoLarge.jpg","href":"https://www.nytimes.com/live/2021/11/08/world/us-travel-restrictions-ban-covid-19/nyc-museums-theater-opera-international-tourists","description":"The arts have suffered with a big source of ticket sales missing throughout the pandemic.","country":"us","create_time":"2021-11-08T21:49:26.000Z","content":"[]","href_hash":"a8c4e7bc40dd11ecb56e5194201ccc50"}}]}},"pageContext":{"slug":"a8c4e7bc40dd11ecb56e5194201ccc50"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
