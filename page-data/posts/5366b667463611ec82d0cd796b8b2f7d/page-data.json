@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/5366b667463611ec82d0cd796b8b2f7d/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"These Afghan Students Found Refuge in Iraq","status":1,"alt":"Jane Arraf","src":"https://static01.nyt.com/images/2021/02/22/reader-center/author-jane-arraf/author-jane-arraf-thumbStandard.png","source":"nytime","menu":"world","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/15/world/15-iraq-afghan-sub/15-iraq-afghan-sub-videoLarge-v2.jpg","href":"https://www.nytimes.com/interactive/2021/11/15/world/middleeast/Afghan-students-in-iraq.html","description":"More than 100 students from the American University of Afghanistan fled the Taliban and are now studying in Iraq.","country":"us","create_time":"2021-11-15T17:07:08.000Z","content":"[]","href_hash":"5366b667463611ec82d0cd796b8b2f7d"}}]}},"pageContext":{"slug":"5366b667463611ec82d0cd796b8b2f7d"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
