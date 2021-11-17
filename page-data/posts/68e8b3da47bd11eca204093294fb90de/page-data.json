@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/68e8b3da47bd11eca204093294fb90de/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"U.S. Covid cases are increasing again","status":1,"alt":"Mitch Smith","src":"https://static01.nyt.com/images/2018/09/10/multimedia/author-mitch-smith/author-mitch-smith-thumbStandard.png","source":"nytime","menu":"us","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/17/us/17virus-data-thanksgiving/17virus-data-thanksgiving-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/11/17/us/virus-data-thanksgiving.html","description":"The latest news and data from the team tracking the coronavirus.","country":"us","create_time":"2021-11-17T15:46:41.000Z","content":"[]","href_hash":"68e8b3da47bd11eca204093294fb90de"}}]}},"pageContext":{"slug":"68e8b3da47bd11eca204093294fb90de"}},
+    "staticQueryHashes": ["3649515864","764694655"]}

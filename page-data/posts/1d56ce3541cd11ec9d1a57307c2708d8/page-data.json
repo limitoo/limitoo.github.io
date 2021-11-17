@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/1d56ce3541cd11ec9d1a57307c2708d8/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"How hot is lava erupting from Hawaii’s Kilauea volcano?","status":1,"alt":" ","src":"https://static01.nyt.com/images/2021/11/09/reader-center/08SCI-VOLCANO-A1refer/merlin_195632505_b2155202-1f05-4ff2-a6d0-ade534973a2f-master315.jpg","source":"nytime","menu":"science","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/09/reader-center/08SCI-VOLCANO-A1refer/merlin_195632505_b2155202-1f05-4ff2-a6d0-ade534973a2f-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/11/09/science/09sci-quiz.html","description":"Test your science knowledge.","country":"us","create_time":"2021-11-10T02:24:08.000Z","content":"[]","href_hash":"1d56ce3541cd11ec9d1a57307c2708d8"}}]}},"pageContext":{"slug":"1d56ce3541cd11ec9d1a57307c2708d8"}},
-    "staticQueryHashes": ["3649515864","764694655"]}
