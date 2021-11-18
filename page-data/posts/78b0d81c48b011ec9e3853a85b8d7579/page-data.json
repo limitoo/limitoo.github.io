@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/78b0d81c48b011ec9e3853a85b8d7579/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"What’s in Our Queue? ‘The Other Two’ and More","status":1,"alt":"Joshua Barone","src":"https://static01.nyt.com/images/2018/06/12/multimedia/author-joshua-barone/author-joshua-barone-thumbStandard-v3.png","source":"nytime","menu":"arts","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/21/arts/editors-recommendations-other-two/editors-recommendations-other-two-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/11/18/arts/editors-recommendations-other-two.html","description":"I’m the assistant performing arts editor on the Culture desk. Here are five things I've been watching, reading and listening to.","country":"us","create_time":"2021-11-18T20:46:02.000Z","content":"[]","href_hash":"78b0d81c48b011ec9e3853a85b8d7579"}}]}},"pageContext":{"slug":"78b0d81c48b011ec9e3853a85b8d7579"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
