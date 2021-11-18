@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/8be9b62a41f711ec9b3a000017025a03/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Juliette Binoche","status":1,"alt":null,"src":"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7","source":"nytime","menu":"t-magazine","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/10/14/t-magazine/14tmag-binoche-slide-RRRM-copy/14tmag-binoche-slide-RRRM-copy-videoLarge-v2.jpg","href":"https://www.nytimes.com/interactive/2021/10/14/t-magazine/juliette-binoche-film-greats.html","description":"Quite possibly the most captivating — and elusive — performer of our time, the actress has built a career around a seemingly endless exploration of what it means to be human.","country":"us","create_time":"2021-11-10T07:28:03.000Z","content":"[]","href_hash":"8be9b62a41f711ec9b3a000017025a03"}}]}},"pageContext":{"slug":"8be9b62a41f711ec9b3a000017025a03"}},
-    "staticQueryHashes": ["3649515864","764694655"]}

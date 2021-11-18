@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/8bf9ef8641f711ec9b3a000017025a03/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Glenn Ligon","status":1,"alt":null,"src":"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7","source":"nytime","menu":"t-magazine","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/10/14/t-magazine/14tmag-ligon-slide-KFRU-copy/14tmag-ligon-slide-KFRU-copy-videoLarge-v2.jpg","href":"https://www.nytimes.com/interactive/2021/10/14/t-magazine/glenn-ligon-art-greats.html","description":"For over 30 years, the artist has been making work that speaks to American history — ambiguous, open-ended, existentially observant. At a time in which the fundamentals of fact and fiction are being questioned, his art captures the truth of a culture in decline.","country":"us","create_time":"2021-11-10T07:28:04.000Z","content":"[]","href_hash":"8bf9ef8641f711ec9b3a000017025a03"}}]}},"pageContext":{"slug":"8bf9ef8641f711ec9b3a000017025a03"}},
-    "staticQueryHashes": ["3649515864","764694655"]}
