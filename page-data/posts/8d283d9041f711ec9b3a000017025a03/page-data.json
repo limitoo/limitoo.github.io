@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/8d283d9041f711ec9b3a000017025a03/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Homes for Sale in New York and Connecticut","status":1,"alt":"","src":"https://static01.nyt.com/images/2021/11/07/realestate/04OTM-REG-slide-578L/04OTM-REG-slide-578L-articleLarge.jpg?quality=75&auto=webp&disable=upscale","source":"nytime","menu":"realestate","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/07/realestate/04OTM-REG-slide-578L/04OTM-REG-slide-578L-videoLarge.jpg","href":"https://www.nytimes.com/2021/11/04/realestate/housing-market-near-nyc.html","description":"This week’s homes are a five-bedroom in Lloyd Neck, N.Y., and a three-bedroom in Greenwich, Conn.","country":"us","create_time":"2021-11-10T07:28:11.000Z","content":"[\"Click on the slide show to see this week\\u2019s featured properties:\"]","href_hash":"8d283d9041f711ec9b3a000017025a03"}}]}},"pageContext":{"slug":"8d283d9041f711ec9b3a000017025a03"}},
-    "staticQueryHashes": ["3649515864","764694655"]}
