@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/7ca4b72448a411ec88b503613f0e92d8/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"5 Games to Watch This Weekend","status":1,"alt":"Victor Mather","src":"https://static01.nyt.com/images/2018/02/20/multimedia/author-victor-mather/author-victor-mather-thumbStandard.jpg","source":"nytime","menu":"sports","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/18/multimedia/18burst-games-to-watch-hatch/18burst-games-to-watch-hatch-videoLarge-v3.jpg","href":"https://www.nytimes.com/interactive/2021/11/18/sports/games-to-watch-on-tv.html","description":"Finals in the N.W.S.L. and collegiate field hockey, Mikaela Shiffrin in World Cup skiing and an intriguing N.F.L. matchup.","country":"us","create_time":"2021-11-18T19:20:20.000Z","content":"[]","href_hash":"7ca4b72448a411ec88b503613f0e92d8"}}]}},"pageContext":{"slug":"7ca4b72448a411ec88b503613f0e92d8"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
