@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/9a609578431111ec9aff8f56e2b2a469/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Biden delivers remarks for Veterans Day, and other national headlines","status":1,"alt":"","src":"","source":"cbsnews","menu":"science","local_src":"","load_img":"","img_url":"https://cbsnews3.cbsistatic.com/hub/i/r/2021/11/11/dde94b7d-7573-4d57-9531-6a8566c0ffeb/thumbnail/640x360/ae42d68bc64412f6953b0f00631f32e5/bidenvetday.png#","href":"https://www.cbsnews.com/live-updates/latest-news-headlines-today-2021-11-11/","description":"The latest national headlines from CBS News.","country":"us","create_time":"2021-11-11T17:06:11.000Z","content":"[\"CBS News is covering the latest news from across the nation in one feed. Read our headlines below.\\u00a0\"]","href_hash":"9a609578431111ec9aff8f56e2b2a469"}}]}},"pageContext":{"slug":"9a609578431111ec9aff8f56e2b2a469"}},
-    "staticQueryHashes": ["3649515864","764694655"]}
