@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/af2ac5f2498611eca163f352ae504a98/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"What to Know About Thanksgiving Travel","status":1,"alt":"Lauren Hard","src":"https://static01.nyt.com/images/2019/10/01/reader-center/author-lauren-hard/author-lauren-hard-thumbStandard.png","source":"nytime","menu":"travel","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/10/11/travel/00airlinevaccinedebate-copy/merlin_195656667_c154a928-defa-4bc3-b7d3-b53ed921b5d9-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/11/19/travel/thanksgiving-travel-questions.html","description":"Here are answers to a few key holiday travel questions","country":"us","create_time":"2021-11-19T22:19:29.000Z","content":"[]","href_hash":"af2ac5f2498611eca163f352ae504a98"}}]}},"pageContext":{"slug":"af2ac5f2498611eca163f352ae504a98"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
