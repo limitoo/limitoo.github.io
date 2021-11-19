@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/77e53a4e498311ec92868f72a8a3c29c/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"How to Make the Best Thanksgiving Topping","status":1,"alt":"New York Times Cooking","src":"https://static01.nyt.com/images/2021/07/28/dining/author-nyt-cooking/author-nyt-cooking-thumbStandard.jpg","source":"nytime","menu":"food","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/19/autossell/crunchy-burst-poster/crunchy-burst-poster-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/11/19/dining/shallot-bread-crumb-crunch.html","description":"Add crispiness to just about any dish with this shallot and bread crumb crunch from Samin Nosrat.","country":"us","create_time":"2021-11-19T21:56:16.000Z","content":"[]","href_hash":"77e53a4e498311ec92868f72a8a3c29c"}}]}},"pageContext":{"slug":"77e53a4e498311ec92868f72a8a3c29c"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
