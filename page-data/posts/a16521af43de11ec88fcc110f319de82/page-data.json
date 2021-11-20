@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/a16521af43de11ec88fcc110f319de82/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Fashionably Late to the Climate Crisis","status":1,"alt":null,"src":"https://static01.nyt.com/images/2021/11/11/business/oakImage-1636655197757/oakImage-1636655197757-articleLarge.jpg?quality=75&auto=webp&disable=upscale","source":"nytime","menu":"business","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/11/business/11scratch-promo/11scratch-promo-videoLarge.jpg","href":"https://www.nytimes.com/2021/11/12/business/sustainable-fashion.html","description":"How do you fix the fashion industry? This sustainability expert has a few ideas.","country":"us","create_time":"2021-11-12T17:34:15.000Z","content":"[]","href_hash":"a16521af43de11ec88fcc110f319de82"}}]}},"pageContext":{"slug":"a16521af43de11ec88fcc110f319de82"}},
-    "staticQueryHashes": ["3649515864","764694655"]}
