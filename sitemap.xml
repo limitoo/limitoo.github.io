@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://limitoo.com/posts/7db45c7c4af311eca7caf3e8d2f77d0e/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://limitoo.com/posts/7a2ad5874af311eca7caf3e8d2f77d0e/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://limitoo.com/posts/7a2ad5864af311eca7caf3e8d2f77d0e/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://limitoo.com/posts/70e2410f4af211ec989a3bbc1ae2900e/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://limitoo.com/posts/70e2410e4af211ec989a3bbc1ae2900e/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://limitoo.com/posts/60be61554af211ec989a3bbc1ae2900e/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -2848,9 +2851,6 @@
 <url> <loc>https://limitoo.com/posts/f29dd5cc448611ec9f7f85e1ac8821e3/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://limitoo.com/posts/d5eb3804448411ec9d5617fa977c538f/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://limitoo.com/posts/be138592448411ec9d5617fa977c538f/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://limitoo.com/posts/b570d0c0448411ec9d5617fa977c538f/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://limitoo.com/posts/a9a78356448411ec9d5617fa977c538f/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://limitoo.com/posts/f0a4f652448011eca7315d89f047017a/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://limitoo.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://limitoo.com/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://limitoo.com/3</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
