@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/18de85934abd11ecaa067532ddae76aa/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"The World Cup Is a Year Away. Who’s In?","status":1,"alt":"Rory Smith","src":"https://static01.nyt.com/images/2019/08/23/sports/Rory-Smith-better/Rory-Smith-thumbStandard.png","source":"nytime","menu":"sports","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/21/multimedia/21worldcup-burst-france/21worldcup-burst-france-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/11/21/sports/soccer/world-cup-year-away.html","description":"The field for Qatar 2022 is starting to take shape. Here’s a look at where things stand so far.","country":"us","create_time":"2021-11-21T11:21:31.000Z","content":"[]","href_hash":"18de85934abd11ecaa067532ddae76aa"}}]}},"pageContext":{"slug":"18de85934abd11ecaa067532ddae76aa"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
