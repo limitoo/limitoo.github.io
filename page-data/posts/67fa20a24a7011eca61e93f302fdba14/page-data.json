@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/67fa20a24a7011eca61e93f302fdba14/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Live Test Rugby: France beats All Blacks by 15 points","status":1,"alt":"","src":"https://www.rnz.co.nz/assets/news/275206/eight_col_173138057_l.jpg?1631924563","source":"rnz","menu":"sport","local_src":"","load_img":"","img_url":"https://www.rnz.co.nz/assets/news/280788/three_col_000_9T32ZL.jpg?1637444021","href":"https://www.rnz.co.nz/news/sport/456199/live-test-rugby-france-beats-all-blacks-by-15-points","description":"The All Blacks' final Test of the year has ended in a heavy defeat, with France winning 40-25 in Paris this morning.","country":"nz","create_time":"2021-11-21T02:12:18.000Z","content":"[\"The All Blacks' final Test of the year has ended in a heavy defeat, with France winning 40-25 in Paris this morning.\", \"Follow all the on-field action with a live blog from Jamie Wall:\"]","href_hash":"67fa20a24a7011eca61e93f302fdba14"}}]}},"pageContext":{"slug":"67fa20a24a7011eca61e93f302fdba14"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
