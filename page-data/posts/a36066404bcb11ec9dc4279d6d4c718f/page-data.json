@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/a36066404bcb11ec9dc4279d6d4c718f/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"On the Scene: India’s Season of Pollution","status":1,"alt":"Mujib Mashal","src":"https://static01.nyt.com/images/2018/10/15/multimedia/author-mujib-mashal/author-mujib-mashal-thumbStandard.png","source":"nytime","menu":"world","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/22/autossell/IMG_0386/IMG_0386-threeByTwoSmallAt2X.jpg","href":"https://www.nytimes.com/interactive/2021/11/22/world/asia/india-pollution.html","description":"November is a month of festivals in India. But in the capital, New Delhi, it also brings reminders of the pollution in the city’s air and water.","country":"us","create_time":"2021-11-22T19:38:32.000Z","content":"[]","href_hash":"a36066404bcb11ec9dc4279d6d4c718f"}}]}},"pageContext":{"slug":"a36066404bcb11ec9dc4279d6d4c718f"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
