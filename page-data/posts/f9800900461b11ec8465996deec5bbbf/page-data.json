@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/f9800900461b11ec8465996deec5bbbf/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"What to Know About the Coronavirus in Pets","status":1,"alt":"Emily Anthes","src":"https://static01.nyt.com/images/2021/07/14/science/author-emily-anthes/author-emily-anthes-thumbStandard.jpg","source":"nytime","menu":"health","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/12/science/00BURST-virus-pets/00BURST-virus-pets-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/11/15/health/covid-pets.html","description":"Scientists have developed vaccines for cats and dogs, but vaccinating companion animals is not necessary, experts say.","country":"us","create_time":"2021-11-15T13:58:09.000Z","content":"[]","href_hash":"f9800900461b11ec8465996deec5bbbf"}}]}},"pageContext":{"slug":"f9800900461b11ec8465996deec5bbbf"}},
-    "staticQueryHashes": ["3649515864","764694655"]}
