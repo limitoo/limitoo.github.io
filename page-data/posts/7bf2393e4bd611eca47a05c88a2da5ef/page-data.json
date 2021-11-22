@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/7bf2393e4bd611eca47a05c88a2da5ef/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"All the COVID news you need from across Australia ","status":1,"alt":"Play Video","src":"https://live-production.wcms.abc-cdn.net.au/7aac14dfe5f99d86784d4fc480919d97","source":"abc","menu":"au","local_src":"","load_img":"","img_url":"https://live-production.wcms.abc-cdn.net.au/6a4dd447ef0bfb5319e8f4aceb8ecb12","href":"https://www.abc.net.au/news/2021-11-23/covid-updates-tests-australia-case-numbers/100641834","description":"Get up to speed with all the coronavirus news from across Australia.","country":"au","create_time":"2021-11-22T20:55:29.000Z","content":"[\"Get up to speed with all the coronavirus news from across Australia.\"]","href_hash":"7bf2393e4bd611eca47a05c88a2da5ef"}}]}},"pageContext":{"slug":"7bf2393e4bd611eca47a05c88a2da5ef"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
