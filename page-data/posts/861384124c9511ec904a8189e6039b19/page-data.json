@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/861384124c9511ec904a8189e6039b19/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"College Football Games to Watch This Week","status":1,"alt":"Alanis Thames","src":"https://static01.nyt.com/images/2021/07/08/sports/author-alanis-thames/author-alanis-thames-thumbStandard.jpg","source":"nytime","menu":"sports","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/23/multimedia/cfb-rivalry-week5/cfb-rivalry-week5-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/11/23/sports/ncaafootball/college-football-highlights.html","description":"There are a handful of high-stakes games this week. Here are the rivalries we recommend watching.","country":"us","create_time":"2021-11-23T19:43:15.000Z","content":"[]","href_hash":"861384124c9511ec904a8189e6039b19"}}]}},"pageContext":{"slug":"861384124c9511ec904a8189e6039b19"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
