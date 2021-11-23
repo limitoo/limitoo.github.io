@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/dcac0db14c4711ecb6d203fcfb2b7f03/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Jeffrey Epstein, in His Own Words","status":1,"alt":"Steve Eder","src":"https://static01.nyt.com/images/2018/07/27/multimedia/author-steve-eder/author-steve-eder-thumbStandard.png","source":"nytime","menu":"nyregion","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/22/multimedia/00inv-burst-img1/00inv-burst-img1-thumbWide.jpg","href":"https://www.nytimes.com/interactive/2021/11/23/nyregion/jeffrey-epstein-documents.html","description":"We obtained more than 2,000 pages of prison records, which contained vivid details about Epstein’s last days.","country":"us","create_time":"2021-11-23T10:28:00.000Z","content":"[]","href_hash":"dcac0db14c4711ecb6d203fcfb2b7f03"}}]}},"pageContext":{"slug":"dcac0db14c4711ecb6d203fcfb2b7f03"}},
+    "staticQueryHashes": ["3649515864","764694655"]}

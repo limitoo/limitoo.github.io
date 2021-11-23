@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/f5e7e40c465211ecb693e91f285bd490/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Stay up to date with all the COVID-19 news in our live blog","status":1,"alt":"Play Video","src":"https://live-production.wcms.abc-cdn.net.au/7aac14dfe5f99d86784d4fc480919d97","source":"abc","menu":"au","local_src":"","load_img":"","img_url":"https://live-production.wcms.abc-cdn.net.au/7be814af4d5d73bf24211bcb8baaa1c6","href":"https://www.abc.net.au/news/2021-11-16/covid-live-blog-nsw-victoria-queensland-latest-updates/100622484","description":"Catch all the latest COVID-19 updates from across Australia, all in the one place. Follow live.","country":"au","create_time":"2021-11-15T20:31:24.000Z","content":"[\"Catch all the latest COVID-19 updates from across Australia, all in the one place.\", \"Follow the blog below for all the latest COVID updates.\\u00a0\"]","href_hash":"f5e7e40c465211ecb693e91f285bd490"}}]}},"pageContext":{"slug":"f5e7e40c465211ecb693e91f285bd490"}},
-    "staticQueryHashes": ["3649515864","764694655"]}
