@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/abe25b9a4d3111ec866ea71e7f499e49/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"What to Read: Four Children’s Books","status":1,"alt":"Jennifer Krauss","src":"https://static01.nyt.com/images/2021/08/24/books/author-jennifer-krauss/author-jennifer-krauss-thumbStandard.jpg","source":"nytime","menu":"books","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/28/books/28-BKS-NEW-PUBBED-COMBO/28-BKS-NEW-PUBBED-COMBO-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/11/24/books/new-childrens-books.html","description":"A selection of books published this week.","country":"us","create_time":"2021-11-24T14:20:59.000Z","content":"[]","href_hash":"abe25b9a4d3111ec866ea71e7f499e49"}}]}},"pageContext":{"slug":"abe25b9a4d3111ec866ea71e7f499e49"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
