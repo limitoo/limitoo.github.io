@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/9dabf5164d5b11ec874d69e3b8fd15a7/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Three men found guilty of murder of unarmed black man Ahmaud Arbery in US","status":1,"alt":"People gather at a wall with a mural painted of Ahmaud Arbery. ","src":"https://live-production.wcms.abc-cdn.net.au/1ba2160f2f13e91cf8594e544b608147","source":"abc","menu":"au","local_src":"","load_img":"","img_url":"https://live-production.wcms.abc-cdn.net.au/1ba2160f2f13e91cf8594e544b608147","href":"https://www.abc.net.au/news/2021-11-25/arbery-verdict/100648728","description":"Three white men on trial over the shooting of unarmed black man Ahmaud Arbery in the US have been convicted of murder.","country":"au","create_time":"2021-11-24T19:21:01.000Z","content":"[\"Three white men on trial over the shooting of unarmed black man Ahmaud Arbery in the US have been convicted of murder.\", \"More to come.\"]","href_hash":"9dabf5164d5b11ec874d69e3b8fd15a7"}}]}},"pageContext":{"slug":"9dabf5164d5b11ec874d69e3b8fd15a7"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
