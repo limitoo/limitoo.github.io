@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/07cc67644d1111ec870c63ab7838d30b/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"30 Million Pounds of Produce in One Day","status":1,"alt":"Corey Kilgannon","src":"https://static01.nyt.com/images/2018/02/20/multimedia/author-corey-kilgannon/author-corey-kilgannon-thumbStandard.jpg","source":"nytime","menu":"nyregion","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/23/nyregion/23huntspoint-08/23huntspoint-08-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/11/24/nyregion/hunts-point-produce-market.html","description":"The busiest day of the year for the country's largest wholesale produce hub is the Tuesday before Thanksgiving.","country":"us","create_time":"2021-11-24T10:27:58.000Z","content":"[]","href_hash":"07cc67644d1111ec870c63ab7838d30b"}}]}},"pageContext":{"slug":"07cc67644d1111ec870c63ab7838d30b"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
