@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/38d1788c4dfb11ecaaf37d92aed92321/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Homes for Sale in New York and New Jersey","status":1,"alt":"","src":"https://static01.nyt.com/images/2021/11/28/realestate/25OTM-REG-slide-L5J9/25OTM-REG-slide-L5J9-articleLarge.jpg?quality=75&auto=webp&disable=upscale","source":"nytime","menu":"nyregion","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/28/realestate/25OTM-REG-slide-L5J9/25OTM-REG-slide-L5J9-videoLarge.jpg","href":"https://www.nytimes.com/2021/11/25/realestate/housing-market-near-nyc.html","description":"This week’s properties are five-bedroom homes in Armonk, N.Y., and Ridgewood, N.J.","country":"us","create_time":"2021-11-25T14:24:06.000Z","content":"[\"Click on the slide show to see this week\\u2019s featured properties:\"]","href_hash":"38d1788c4dfb11ecaaf37d92aed92321"}}]}},"pageContext":{"slug":"38d1788c4dfb11ecaaf37d92aed92321"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
