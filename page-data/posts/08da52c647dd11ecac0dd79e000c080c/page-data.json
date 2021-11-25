@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/08da52c647dd11ecac0dd79e000c080c/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"‘Then I Felt a Tap on My Shoulder’","status":1,"alt":"Agnes Lee","src":"https://static01.nyt.com/images/2021/11/16/nyregion/author-agnes-lee/author-agnes-lee-thumbStandard.jpg","source":"nytime","menu":"nyregion","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/14/nyregion/14diary-illos-burst/14diary-illos-burst-videoLarge-v4.jpg","href":"https://www.nytimes.com/interactive/2021/11/17/nyregion/nyc-diary-breakup.html","description":"A sad moment as dusk falls, from this week's Metropolitan Diary","country":"us","create_time":"2021-11-17T19:32:48.000Z","content":"[]","href_hash":"08da52c647dd11ecac0dd79e000c080c"}}]}},"pageContext":{"slug":"08da52c647dd11ecac0dd79e000c080c"}},
-    "staticQueryHashes": ["3649515864","764694655"]}
