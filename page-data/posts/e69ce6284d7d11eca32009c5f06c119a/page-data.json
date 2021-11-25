@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/e69ce6284d7d11eca32009c5f06c119a/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"What’s in Our Queue? ‘The Show of Shows’ and More","status":1,"alt":"Helen T. Verongos","src":"https://static01.nyt.com/images/2019/03/01/multimedia/author-helen-t-verongos/author-helen-t-verongos-thumbStandard.png","source":"nytime","menu":"arts","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/28/multimedia/28QUEUE-SHOW/28QUEUE-SHOW-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/11/24/arts/28editors-recommendations-show-of-shows.html","description":"I'm a senior staff editor on the Culture desk. Here are five things I've been watching, reading and sifting through.","country":"us","create_time":"2021-11-24T23:26:39.000Z","content":"[]","href_hash":"e69ce6284d7d11eca32009c5f06c119a"}}]}},"pageContext":{"slug":"e69ce6284d7d11eca32009c5f06c119a"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
