@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/59085e784a5011eca7e08bc83fc11204/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Get up to speed on all the COVID-19 updates from across Australia","status":1,"alt":"Play Video","src":"https://live-production.wcms.abc-cdn.net.au/7aac14dfe5f99d86784d4fc480919d97","source":"abc","menu":"au","local_src":"","load_img":"","img_url":"https://live-production.wcms.abc-cdn.net.au/78e4a4e6ff1dd0ca41eb140917ca0177","href":"https://www.abc.net.au/news/2021-11-21/covid-updates-vaccine-mandate-case-numbers/100637512","description":"Catch all the latest COVID-19 updates from across Australia, all in the one place. ","country":"au","create_time":"2021-11-20T22:22:52.000Z","content":"[\"Catch all the latest COVID-19 updates from across Australia, all in the one place.\", \"Follow all the day's COVID\\u00a0updates in the blog below.\"]","href_hash":"59085e784a5011eca7e08bc83fc11204"}}]}},"pageContext":{"slug":"59085e784a5011eca7e08bc83fc11204"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
