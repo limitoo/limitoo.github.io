@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/e2082761487a11ecb33ef9c44a3b1044/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Homes for Sale in Brooklyn and Manhattan","status":1,"alt":"","src":"https://static01.nyt.com/images/2021/11/21/realestate/18OTM-NYC-slide-S4PS/18OTM-NYC-slide-S4PS-articleLarge.jpg?quality=75&auto=webp&disable=upscale","source":"nytime","menu":"nyregion","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/21/realestate/18OTM-NYC-slide-S4PS/18OTM-NYC-slide-S4PS-videoLarge.jpg","href":"https://www.nytimes.com/2021/11/18/realestate/housing-market-ny.html","description":"This week’s homes are in Greenwood Heights, Midtown East and on the Upper East Side.","country":"us","create_time":"2021-11-18T14:22:58.000Z","content":"[\"Click on the slide show to see this week\\u2019s featured properties:\", \"Additional reporting by Sydney Franklin.\"]","href_hash":"e2082761487a11ecb33ef9c44a3b1044"}}]}},"pageContext":{"slug":"e2082761487a11ecb33ef9c44a3b1044"}},
-    "staticQueryHashes": ["3649515864","764694655"]}

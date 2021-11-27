@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/e158afac488d11ec93ec31f03c5e3d3f/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"I Spoke to C.E.O.s About the Future of Work","status":1,"alt":"David Gelles","src":"https://static01.nyt.com/images/2018/07/24/multimedia/author-david-gelles/author-david-gelles-thumbStandard.png","source":"nytime","menu":"business","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/16/business/16corneroffice-RTO-lede/16corneroffice-RTO-lede-videoLarge-v3.jpg","href":"https://www.nytimes.com/interactive/2021/11/18/business/ceos-future-of-work.html","description":"Big companies are struggling with how, when and even if they will bring employees back to the office.","country":"us","create_time":"2021-11-18T16:38:40.000Z","content":"[]","href_hash":"e158afac488d11ec93ec31f03c5e3d3f"}}]}},"pageContext":{"slug":"e158afac488d11ec93ec31f03c5e3d3f"}},
-    "staticQueryHashes": ["3649515864","764694655"]}

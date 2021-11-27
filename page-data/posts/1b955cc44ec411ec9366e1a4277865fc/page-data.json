@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/1b955cc44ec411ec9366e1a4277865fc/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Their Holiday Parties Are Just Getting Restarted","status":1,"alt":null,"src":"https://static01.nyt.com/images/2021/11/25/business/oakImage-1637875371705/oakImage-1637875371705-articleLarge.jpg?quality=75&auto=webp&disable=upscale","source":"nytime","menu":"business","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/26/business/26scratch-promo/26scratch-promo-videoLarge.jpg","href":"https://www.nytimes.com/2021/11/26/business/holiday-parties.html","description":"A pair of caterers gear up for year-end celebrations at companies. “I think they really want to encourage people to think that returning to the office is a celebration of sorts.”","country":"us","create_time":"2021-11-26T14:22:04.000Z","content":"[]","href_hash":"1b955cc44ec411ec9366e1a4277865fc"}}]}},"pageContext":{"slug":"1b955cc44ec411ec9366e1a4277865fc"}},
+    "staticQueryHashes": ["3649515864","764694655"]}

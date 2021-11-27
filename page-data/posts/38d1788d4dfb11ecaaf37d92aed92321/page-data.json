@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/38d1788d4dfb11ecaaf37d92aed92321/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Homes for Sale in Brooklyn and Manhattan","status":1,"alt":"","src":"https://static01.nyt.com/images/2021/11/28/realestate/25OTM-NYC-slide-FR2E/25OTM-NYC-slide-FR2E-articleLarge.jpg?quality=75&auto=webp&disable=upscale","source":"nytime","menu":"nyregion","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/28/realestate/25OTM-NYC-slide-FR2E/25OTM-NYC-slide-FR2E-videoLarge.jpg","href":"https://www.nytimes.com/2021/11/25/realestate/housing-market-nyc.html","description":"This week’s properties are in Park Slope South, NoHo and on the Lower East Side.","country":"us","create_time":"2021-11-25T14:24:07.000Z","content":"[\"Click on the slide show to see this week\\u2019s featured properties:\", \"Additional reporting by Sydney Franklin\"]","href_hash":"38d1788d4dfb11ecaaf37d92aed92321"}}]}},"pageContext":{"slug":"38d1788d4dfb11ecaaf37d92aed92321"}},
+    "staticQueryHashes": ["3649515864","764694655"]}

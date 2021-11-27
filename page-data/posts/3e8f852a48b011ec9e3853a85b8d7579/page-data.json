@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/3e8f852a48b011ec9e3853a85b8d7579/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"All the coronavirus news you need to know","status":1,"alt":"Play Video","src":"https://live-production.wcms.abc-cdn.net.au/7aac14dfe5f99d86784d4fc480919d97","source":"abc","menu":"au","local_src":"","load_img":"","img_url":"https://live-production.wcms.abc-cdn.net.au/86a178c45c97c51d19a1b47cc8d23133","href":"https://www.abc.net.au/news/2021-11-19/covid-live-updates-vaccines-lockdown-nsw-victoria-queensland/100632788","description":"Catch all the latest COVID-19 updates from across Australia, all in the one place. Follow live.","country":"au","create_time":"2021-11-18T20:44:14.000Z","content":"[\"Catch all the latest COVID-19 updates from across Australia, all in the one place.\", \"Check out all the latest COVID updates in the blog below.\"]","href_hash":"3e8f852a48b011ec9e3853a85b8d7579"}}]}},"pageContext":{"slug":"3e8f852a48b011ec9e3853a85b8d7579"}},
-    "staticQueryHashes": ["3649515864","764694655"]}

@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/ebef4e84487a11ecb33ef9c44a3b1044/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Where to Stargaze in the U.S.","status":1,"alt":"Johnny Diaz","src":"https://static01.nyt.com/images/2019/11/05/reader-center/author-johnny-diaz/author-johnny-diaz-thumbStandard.png","source":"nytime","menu":"science","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/15/us/00xp-darksky-burst-02/00xp-darksky-burst-02-videoLarge-v4.jpg","href":"https://www.nytimes.com/interactive/2021/11/18/science/dark-sky-places.html","description":"Since 2001, the International Dark-Sky Association has designated spots with exceptionally high-quality night skies, in an effort to restore them to their natural state.","country":"us","create_time":"2021-11-18T14:23:00.000Z","content":"[]","href_hash":"ebef4e84487a11ecb33ef9c44a3b1044"}}]}},"pageContext":{"slug":"ebef4e84487a11ecb33ef9c44a3b1044"}},
-    "staticQueryHashes": ["3649515864","764694655"]}

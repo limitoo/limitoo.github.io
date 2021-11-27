@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/581fb90248c311ec81cf09a42adef9c4/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"We’re Having a Holiday Gathering. Are We Nuts?","status":1,"alt":" ","src":"https://static01.nyt.com/images/2021/11/12/well/00well-travel-quiz-topper/00well-travel-quiz-topper-master315-v3.jpg","source":"nytime","menu":"science","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/17/well/live/holiday-gatherings-covid-1637171825157/holiday-gatherings-covid-1637171825157-videoLarge-v2.jpg","href":"https://www.nytimes.com/interactive/2021/11/17/well/live/holiday-gatherings-covid.html","description":"Take our pandemic quiz to learn how to lower the risk.","country":"us","create_time":"2021-11-18T23:01:13.000Z","content":"[]","href_hash":"581fb90248c311ec81cf09a42adef9c4"}}]}},"pageContext":{"slug":"581fb90248c311ec81cf09a42adef9c4"}},
-    "staticQueryHashes": ["3649515864","764694655"]}
