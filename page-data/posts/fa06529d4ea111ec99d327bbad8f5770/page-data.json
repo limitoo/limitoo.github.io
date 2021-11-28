@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/fa06529d4ea111ec99d327bbad8f5770/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"5 Things to Do This Weekend","status":1,"alt":"Danielle Dowling","src":"https://static01.nyt.com/images/2021/08/11/arts/author-danielle-dowling/author-danielle-dowling-thumbStandard.jpg","source":"nytime","menu":"arts","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/25/arts/26wkd-ttd-licorice2/26wkd-ttd-licorice2-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/11/26/arts/weekend-editors-picks-licorice-pizza.html","description":"Selections from the current Weekend section, including a review of the film “Licorice Pizza.”","country":"us","create_time":"2021-11-26T10:18:00.000Z","content":"[]","href_hash":"fa06529d4ea111ec99d327bbad8f5770"}}]}},"pageContext":{"slug":"fa06529d4ea111ec99d327bbad8f5770"}},
+    "staticQueryHashes": ["3649515864","764694655"]}

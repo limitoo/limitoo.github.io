@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/9b6e26f6492111ecb5e70f5f1e0d22c9/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"5 Things to Do This Weekend","status":1,"alt":"Danielle Dowling","src":"https://static01.nyt.com/images/2021/08/11/arts/author-danielle-dowling/author-danielle-dowling-thumbStandard.jpg","source":"nytime","menu":"arts","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/19/19wkd-ttd-adele/19wkd-ttd-adele-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/11/19/arts/weekend-editors-pick-adele.html","description":"Selections from the current Weekend section, including a review of Adele's new album, “30.” ","country":"us","create_time":"2021-11-19T10:16:25.000Z","content":"[]","href_hash":"9b6e26f6492111ecb5e70f5f1e0d22c9"}}]}},"pageContext":{"slug":"9b6e26f6492111ecb5e70f5f1e0d22c9"}},
-    "staticQueryHashes": ["3649515864","764694655"]}
