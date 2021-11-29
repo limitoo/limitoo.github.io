@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/879179c6515311ecb2a0f355c76ae98d/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"A Timeline of Jack Dorsey’s Twitter Tenure","status":1,"alt":"Gray Beltran","src":"https://static01.nyt.com/images/2021/11/29/business/author-gray-beltran/author-gray-beltran-thumbStandard.jpg","source":"nytime","menu":"business","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/29/multimedia/dorsey-cover-slide/dorsey-cover-slide-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/11/29/business/jack-dorsey-twitter-milestones.html","description":"A look at key moments from Dorsey’s tenure at the company.","country":"us","create_time":"2021-11-29T20:33:49.000Z","content":"[]","href_hash":"879179c6515311ecb2a0f355c76ae98d"}}]}},"pageContext":{"slug":"879179c6515311ecb2a0f355c76ae98d"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
