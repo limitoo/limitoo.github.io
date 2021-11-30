@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/662e79be4c9e11ec803427deb51bbaac/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"All the COVID news you need from across Australia","status":1,"alt":"Play Video","src":"https://live-production.wcms.abc-cdn.net.au/7aac14dfe5f99d86784d4fc480919d97","source":"abc","menu":"au","local_src":"","load_img":"","img_url":"https://live-production.wcms.abc-cdn.net.au/0ae77d0b76c49b2c940783ec9f9a7c9b","href":"https://www.abc.net.au/news/2021-11-24/coronavirus-live-blog-nt-katherine-nsw-vic/100645026","description":"Get up to speed with all the coronavirus news from across Australia.","country":"au","create_time":"2021-11-23T20:46:28.000Z","content":"[\"Get up to speed with all the coronavirus news from across Australia.\", \"Catch up on the updates from\\u00a0Tuesday's COVID blog.\"]","href_hash":"662e79be4c9e11ec803427deb51bbaac"}}]}},"pageContext":{"slug":"662e79be4c9e11ec803427deb51bbaac"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
