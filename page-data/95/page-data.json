@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-list-js",
-    "path": "/95",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Limitoo News"}},"allMysqlLists":{"edges":[{"node":{"title":"90 House Dems Call on Senate to Return Path to Citizenship for Undocumented Immigrants","href_hash":"664bf3304bfa11ecb70f2336c1bf3f85","status":1,"src":"https://d.newsweek.com/en/full/1938238/schumer-speech.webp","source":"newsweek","menu":"us","local_src":"","load_img":"","img_url":"https://d.newsweek.com/en/full/1938238/schumer-speech.webp","href":"https://www.newsweek.com//90-house-dems-call-senate-return-path-citizenship-undocumented-immigrants-1652218","description":"The representatives are asking for the opinion of the Senate Parliamentarian on immigration to be disregarded.","country":"us","create_time":"2021-11-23T01:12:56.000Z"}}]}},"pageContext":{"limit":30,"skip":2820,"numPages":95,"currentPage":95}},
-    "staticQueryHashes": ["3649515864","764694655"]}
