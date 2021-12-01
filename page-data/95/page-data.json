@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-list-js",
+    "path": "/95",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Limitoo News"}},"allMysqlLists":{"edges":[{"node":{"title":"Strong unit sales drive Arvida Group's first half performance","href_hash":"07062ea84bfb11ecb70f2336c1bf3f85","status":1,"src":"https://www.rnz.co.nz/assets/news_crops/134310/eight_col_109068959_l.jpg?1637618788","source":"rnz","menu":"national","local_src":"","load_img":"","img_url":"https://www.rnz.co.nz/assets/news_crops/134310/three_col_109068959_l.jpg?1637618788","href":"https://www.rnz.co.nz/news/national/456357/strong-unit-sales-drive-arvida-group-s-first-half-performance","description":"The retirement village operator saw a 74 percent increase in unit sales despite lockdown disruption.","country":"nz","create_time":"2021-11-23T01:17:22.000Z"}}]}},"pageContext":{"limit":30,"skip":2820,"numPages":95,"currentPage":95}},
+    "staticQueryHashes": ["3649515864","764694655"]}
