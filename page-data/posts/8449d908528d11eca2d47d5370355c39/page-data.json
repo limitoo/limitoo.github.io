@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/8449d908528d11eca2d47d5370355c39/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"What to Read: 4 New Illustrated Books","status":1,"alt":"Gal Beckerman","src":"https://static01.nyt.com/images/2021/03/30/reader-center/author-gal-beckerman/author-gal-beckerman-thumbStandard.png","source":"nytime","menu":"books","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/05/books/05-BKS-NEW-PUBBED-COMBO/05-BKS-NEW-PUBBED-COMBO-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/12/01/books/new-graphic-novels.html","description":"Here are four new graphic books we recommend this week.","country":"us","create_time":"2021-12-01T10:01:00.000Z","content":"[]","href_hash":"8449d908528d11eca2d47d5370355c39"}}]}},"pageContext":{"slug":"8449d908528d11eca2d47d5370355c39"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
