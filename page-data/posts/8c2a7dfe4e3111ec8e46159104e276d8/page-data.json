@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/8c2a7dfe4e3111ec8e46159104e276d8/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"All the COVID news you need to know","status":1,"alt":"Play Video","src":"https://live-production.wcms.abc-cdn.net.au/7aac14dfe5f99d86784d4fc480919d97","source":"abc","menu":"au","local_src":"","load_img":"","img_url":"https://live-production.wcms.abc-cdn.net.au/634ba7f7d58a68000a923d70461925b5","href":"https://www.abc.net.au/news/2021-11-26/covid-live-updates-nt-katherine-byron-bay-south-australia/100651954","description":"Get up to speed with all the coronavirus news from across Australia. Follow live.","country":"au","create_time":"2021-11-25T20:52:24.000Z","content":"[\"Get up to speed with all the coronavirus news from across Australia.\", \"Follow all of Friday's news and updates on our live blog.\"]","href_hash":"8c2a7dfe4e3111ec8e46159104e276d8"}}]}},"pageContext":{"slug":"8c2a7dfe4e3111ec8e46159104e276d8"}},
+    "staticQueryHashes": ["3649515864","764694655"]}

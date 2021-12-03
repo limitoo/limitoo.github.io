@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/331d3fc8538411ecb771a9ba4612ede1/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"5 Tips for Avoiding Surprise Virus Test Bills","status":1,"alt":"Sarah Kliff","src":"https://static01.nyt.com/images/2020/08/25/reader-center/author-sarah-kliff/author-sarah-kliff-thumbStandard.png","source":"nytime","menu":"upshot","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/02/multimedia/00up-swab1/00up-swab1-videoLarge-v2.jpg","href":"https://www.nytimes.com/interactive/2021/12/02/upshot/tips-avoid-covid-test-charges.html","description":"Experts worry the Omicron variant could seed a new coronavirus wave, which would probably mean a lot more surprise bills.","country":"us","create_time":"2021-12-02T15:26:38.000Z","content":"[]","href_hash":"331d3fc8538411ecb771a9ba4612ede1"}}]}},"pageContext":{"slug":"331d3fc8538411ecb771a9ba4612ede1"}},
+    "staticQueryHashes": ["3649515864","764694655"]}

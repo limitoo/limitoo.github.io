@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/42bfaec853c211ec837b352508947485/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Notable Deaths 2021","status":1,"alt":null,"src":"https://static01.nyt.com/newsgraphics/2019/02/22/notable-deaths/9c87745690702e7f086400e1b94cd7093fd031f7/transparent.png","source":"nytime","menu":"obituaries","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/02/obituaries/02NOTABLEDEATHS-HOME/02NOTABLEDEATHS-HOME-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/obituaries/notable-deaths.html","description":"Remembering Hank Aaron, Colin Powell, Stephen Sondheim, Beverly Cleary, DMX, Cicely Tyson, Larry King, Olympia Dukakis, Chuck Close, Michael K. Williams, Janet Malcolm and many others who died this year.","country":"us","create_time":"2021-12-02T22:50:56.000Z","content":"[]","href_hash":"42bfaec853c211ec837b352508947485"}}]}},"pageContext":{"slug":"42bfaec853c211ec837b352508947485"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
