@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/8944819b542411ec8bd48fbf5ee4cc6f/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"A Concentration Camp Tree Comes to N.Y.C.","status":1,"alt":"Sarah Maslin Nir","src":"https://static01.nyt.com/images/2018/06/13/multimedia/author-sarah-maslin-nir/author-sarah-maslin-nir-thumbStandard.jpg","source":"nytime","menu":"nyregion","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/02/nyregion/02tree-burst/02tree-burst-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/12/03/nyregion/holocaust-tree-planted-nyc.html","description":"What began as cuttings of a tree at a Nazi internment camp was planted as a tree in New York.","country":"us","create_time":"2021-12-03T10:35:16.000Z","content":"[]","href_hash":"8944819b542411ec8bd48fbf5ee4cc6f"}}]}},"pageContext":{"slug":"8944819b542411ec8bd48fbf5ee4cc6f"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
