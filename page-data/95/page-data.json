@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-list-js",
-    "path": "/95",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Limitoo News"}},"allMysqlLists":{"edges":[{"node":{"title":"In Good Spirits","href_hash":"1668f0964edb11ec8e1c4b7741a83839","status":1,"src":"https://static01.nyt.com/images/2021/11/28/fashion/28schumacher-cover/merlin_198107034_0096295c-f4c0-4e03-a191-35dbf7436e9b-articleLarge.jpg?quality=75&auto=webp&disable=upscale","source":"nytime","menu":"style","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/28/fashion/28schumacher-cover/merlin_198107034_0096295c-f4c0-4e03-a191-35dbf7436e9b-videoLarge.jpg","href":"https://www.nytimes.com/2021/11/26/style/carissa-schumacher-flamingo-estate-los-angeles.html","description":"Carissa Schumacher channels the dead for her A-list celebrity clients.But most days, she’s in the forest.","country":"us","create_time":"2021-11-26T17:06:10.000Z"}}]}},"pageContext":{"limit":30,"skip":2820,"numPages":95,"currentPage":95}},
-    "staticQueryHashes": ["3649515864","764694655"]}
