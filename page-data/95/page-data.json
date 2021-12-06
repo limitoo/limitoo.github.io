@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-list-js",
+    "path": "/95",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Limitoo News"}},"allMysqlLists":{"edges":[{"node":{"title":"COVID-positive Czech President swears in Prime Minister from transparent box","href_hash":"4d9621b650a311ecb1d21b871b626c0e","status":1,"src":"https://live-production.wcms.abc-cdn.net.au/b97ac8c4225123426e005dfab8d48862","source":"abc","menu":"au","local_src":"","load_img":"","img_url":"https://live-production.wcms.abc-cdn.net.au/b97ac8c4225123426e005dfab8d48862","href":"https://www.abc.net.au/news/2021-11-29/czech-president-milos-zeman-covid-new-prime-minister-petr-faila/100657540","description":"Czech Republic President Milos Zeman arrived to the ceremony in a wheelchair escorted by a medic in full protective gear and remained separated from other government officials. ","country":"au","create_time":"2021-11-28T23:31:46.000Z"}}]}},"pageContext":{"limit":30,"skip":2820,"numPages":95,"currentPage":95}},
+    "staticQueryHashes": ["3649515864","764694655"]}
