@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/4fe72160575711ec957bc7d24bcd5862/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"What are a coronavirus’s genes made of?","status":1,"alt":" ","src":"https://static01.nyt.com/images/2021/12/06/science/06SCI-NEWSLETTER-quiz/06SCI-NEWSLETTER-quiz-master315.jpg","source":"nytime","menu":"science","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/06/science/06SCI-NEWSLETTER-quiz/06SCI-NEWSLETTER-quiz-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/12/07/science/07sci-quiz.html","description":"Here’s a viral genome question.","country":"us","create_time":"2021-12-07T12:15:43.000Z","content":"[]","href_hash":"4fe72160575711ec957bc7d24bcd5862"}}]}},"pageContext":{"slug":"4fe72160575711ec957bc7d24bcd5862"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
