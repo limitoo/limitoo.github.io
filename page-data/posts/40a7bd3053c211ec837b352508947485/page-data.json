@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/40a7bd3053c211ec837b352508947485/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Notable Deaths 2021: Music","status":1,"alt":null,"src":"https://static01.nyt.com/images/2021/11/28/obituaries/28Guryan-obit/24Guryan-square320.jpg","source":"nytime","menu":"obituaries","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/02/obituaries/02NOTABLEDEATHS-MUSIC/02NOTABLEDEATHS-MUSIC-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/obituaries/notable-deaths-music.html","description":"Remembering DMX, Charlie Watts, Phil Spector, Sophie, James Levine, Chick Corea, Mary Wilson and many others who died this year.","country":"us","create_time":"2021-12-02T22:50:46.000Z","content":"[]","href_hash":"40a7bd3053c211ec837b352508947485"}}]}},"pageContext":{"slug":"40a7bd3053c211ec837b352508947485"}},
-    "staticQueryHashes": ["3649515864","764694655"]}

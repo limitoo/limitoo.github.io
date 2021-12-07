@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/82f0c400523411ecb4d22d4eed0ea718/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"We Spoke to Prosecutors Across the Country","status":1,"alt":"David D. Kirkpatrick","src":"https://static01.nyt.com/images/2018/10/15/multimedia/author-david-d-kirkpatrick/author-david-d-kirkpatrick-thumbStandard-v2.png","source":"nytime","menu":"us","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/30/multimedia/30oldcases-burst-opener/30oldcases-burst-opener-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/11/30/us/old-cases-behind-the-scenes.html","description":"A forensics expert told us district attorneys were hiring him to review old cases against police officers. But was this really happening?","country":"us","create_time":"2021-11-30T23:24:28.000Z","content":"[]","href_hash":"82f0c400523411ecb4d22d4eed0ea718"}}]}},"pageContext":{"slug":"82f0c400523411ecb4d22d4eed0ea718"}},
-    "staticQueryHashes": ["3649515864","764694655"]}

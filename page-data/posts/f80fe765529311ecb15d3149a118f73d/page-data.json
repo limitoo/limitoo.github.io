@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/f80fe765529311ecb15d3149a118f73d/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"How Your Health Care Could Change","status":1,"alt":"Margot Sanger-Katz","src":"https://static01.nyt.com/images/2019/12/13/reader-center/author-margot-sanger-katz/author-margot-sanger-katz-thumbStandard.png","source":"nytime","menu":"upshot","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/29/us/politics/00dc-coverage-burst-1/00dc-coverage-burst-1-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/12/01/upshot/health-care-changes-democrats.html","description":"The Democrats’ big social spending bill would bring the country closer to universal coverage.","country":"us","create_time":"2021-12-01T10:46:51.000Z","content":"[]","href_hash":"f80fe765529311ecb15d3149a118f73d"}}]}},"pageContext":{"slug":"f80fe765529311ecb15d3149a118f73d"}},
-    "staticQueryHashes": ["3649515864","764694655"]}

@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/0871c05451dc11ec9dbe11ef217487c8/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Which of these places in the solar system contains the least amount of mass?","status":1,"alt":" ","src":"https://static01.nyt.com/images/2021/11/30/us/30sci-quiz-SOLARSYSTEM/merlin_145108692_4d2d4f6a-fadc-440a-9d3a-b4e381509e63-master315.jpg","source":"nytime","menu":"science","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/30/us/30sci-quiz-SOLARSYSTEM/merlin_145108692_4d2d4f6a-fadc-440a-9d3a-b4e381509e63-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/11/30/science/30sci-quiz.html","description":"A question of space. Outer space.","country":"us","create_time":"2021-11-30T12:50:40.000Z","content":"[]","href_hash":"0871c05451dc11ec9dbe11ef217487c8"}}]}},"pageContext":{"slug":"0871c05451dc11ec9dbe11ef217487c8"}},
-    "staticQueryHashes": ["3649515864","764694655"]}

@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/9bdd0d0a52bb11ec846e3bbabad24104/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"6 Big Beatles Moments","status":1,"alt":"David Renard","src":"https://static01.nyt.com/images/2019/06/05/multimedia/05now-tlogo/05now-tlogo-thumbStandard-v2.png","source":"nytime","menu":"arts","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/01/multimedia/01beatles-burst1/01beatles-burst1-videoLarge-v2.jpg","href":"https://www.nytimes.com/interactive/2021/12/01/arts/music/beatles-get-back-moments.html","description":"The best way to watch “The Beatles: Get Back” is to take in as much in one go as possible, but if you don’t have seven-plus hours, here’s a guide to its eye-opening scenes.","country":"us","create_time":"2021-12-01T15:31:00.000Z","content":"[]","href_hash":"9bdd0d0a52bb11ec846e3bbabad24104"}}]}},"pageContext":{"slug":"9bdd0d0a52bb11ec846e3bbabad24104"}},
-    "staticQueryHashes": ["3649515864","764694655"]}

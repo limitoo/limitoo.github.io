@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/07fd7f3f539211eca63b7b759594307c/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"On the Market in New York City","status":1,"alt":"","src":"https://static01.nyt.com/images/2021/11/02/realestate/02OTM-NYC-slide-BK4Z/02OTM-NYC-slide-BK4Z-articleLarge.jpg?quality=75&auto=webp&disable=upscale","source":"nytime","menu":"nyregion","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/02/realestate/02OTM-NYC-slide-BK4Z/02OTM-NYC-slide-BK4Z-videoLarge.jpg","href":"https://www.nytimes.com/2021/12/02/realestate/housing-market-nyc.html","description":"This week’s properties are in Dumbo, Chelsea and on the Upper West Side.","country":"us","create_time":"2021-12-02T17:06:16.000Z","content":"[\"Click on the slide show to see this week\\u2019s featured properties:\", \"Additional reporting by Sydney Franklin.\"]","href_hash":"07fd7f3f539211eca63b7b759594307c"}}]}},"pageContext":{"slug":"07fd7f3f539211eca63b7b759594307c"}},
-    "staticQueryHashes": ["3649515864","764694655"]}

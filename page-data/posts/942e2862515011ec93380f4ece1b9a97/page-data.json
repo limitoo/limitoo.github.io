@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/942e2862515011ec93380f4ece1b9a97/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Virgil Abloh’s Celebrity Influence","status":1,"alt":"Vanessa Friedman","src":"https://static01.nyt.com/images/2018/06/12/multimedia/vanessa-friedman/vanessa-friedman-thumbStandard.png","source":"nytime","menu":"style","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/29/fashion/29abloh-burst-virgil/29abloh-burst-virgil-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/11/29/style/virgil-abloh-celebrity-looks.html","description":"Here are some memorable moments from Mr. Abloh's barrier-breaking career.","country":"us","create_time":"2021-11-29T20:12:16.000Z","content":"[]","href_hash":"942e2862515011ec93380f4ece1b9a97"}}]}},"pageContext":{"slug":"942e2862515011ec93380f4ece1b9a97"}},
-    "staticQueryHashes": ["3649515864","764694655"]}
