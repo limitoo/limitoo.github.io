@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/9e233f0c554b11ec84a059452313ca9d/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"All the COVID news you need from across Australia","status":1,"alt":"Play Video","src":"https://live-production.wcms.abc-cdn.net.au/7aac14dfe5f99d86784d4fc480919d97","source":"abc","menu":"au","local_src":"","load_img":"","img_url":"https://live-production.wcms.abc-cdn.net.au/3c032dc3181d18f3199e35e855d793af","href":"https://www.abc.net.au/news/2021-12-05/covid-updates-omicron-vaccination-borders-nsw-vic-qld-nt/100674958","description":"Get up to speed on all the coronavirus news from across Australia. Follow live. ","country":"au","create_time":"2021-12-04T21:46:38.000Z","content":"[\"Get up to speed on all the coronavirus news from across Australia.\\u00a0\", \"Follow the live blog below\\u00a0for all the latest updates.\"]","href_hash":"9e233f0c554b11ec84a059452313ca9d"}}]}},"pageContext":{"slug":"9e233f0c554b11ec84a059452313ca9d"}},
-    "staticQueryHashes": ["3649515864","764694655"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/8037b6b0576911eca3c7c9e794e87b0e/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Highlights From the 4 Heisman Finalists","status":1,"alt":"Alan Blinder","src":"https://static01.nyt.com/images/2018/08/24/multimedia/author-alan-blinder/author-alan-blinder-thumbStandard.png","source":"nytime","menu":"sports","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/07/sports/07heisman/07heisman-videoLarge-v2.jpg","href":"https://www.nytimes.com/interactive/2021/12/07/sports/ncaafootball/heisman-trophy-finalists.html","description":"College football’s top individual honor will go to Bryce Young, C.J. Stroud, Kenny Pickett or Aidan Hutchinson. See them in action.","country":"us","create_time":"2021-12-07T14:25:55.000Z","content":"[]","href_hash":"8037b6b0576911eca3c7c9e794e87b0e"}}]}},"pageContext":{"slug":"8037b6b0576911eca3c7c9e794e87b0e"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
