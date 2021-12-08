@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-list-js",
+    "path": "/33",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Limitoo News"}},"allMysqlLists":{"edges":[{"node":{"title":"Why Meghan Markle ripped up the 'invisible contract' between the royals and British tabloids","href_hash":"b2a5f45455a711eca367d19c631aa498","status":1,"src":"https://www.rnz.co.nz/assets/news_crops/135101/eight_col_000_9NJ7ZD.jpg?1638668558","source":"rnz","menu":"world","local_src":"","load_img":"","img_url":"https://www.rnz.co.nz/assets/news_crops/135101/three_col_000_9NJ7ZD.jpg?1638668558","href":"https://www.rnz.co.nz/news/world/457248/why-meghan-markle-ripped-up-the-invisible-contract-between-the-royals-and-british-tabloids","description":"The British royal family and the media have what some describe as an invisible contract: the palace offer access, and the press in return offer favourable coverage.","country":"nz","create_time":"2021-12-05T08:46:00.000Z"}}]}},"pageContext":{"limit":30,"skip":960,"numPages":33,"currentPage":33}},
+    "staticQueryHashes": ["3649515864","764694655"]}
