@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/fd0a3b30558511ec9a294dbf2474df55/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Training for a Double Dutch Competition","status":1,"alt":"James Thomas","src":"https://static01.nyt.com/images/2021/12/01/nyregion/author-james-thomas/author-james-thomas-thumbStandard.jpg","source":"nytime","menu":"sports","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/05/autossell/opener_cover/opener_cover-videoLarge.png","href":"https://www.nytimes.com/interactive/2021/12/04/nyregion/double-dutch-contest-apollo.html","description":"Watch two teams practice for the 30th anniversary of the Double Dutch Holiday Classic at the Apollo Theater in Harlem.","country":"us","create_time":"2021-12-04T20:44:45.000Z","content":"[]","href_hash":"fd0a3b30558511ec9a294dbf2474df55"}}]}},"pageContext":{"slug":"fd0a3b30558511ec9a294dbf2474df55"}},
-    "staticQueryHashes": ["3649515864","764694655"]}

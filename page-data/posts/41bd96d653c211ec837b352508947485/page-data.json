@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/41bd96d653c211ec837b352508947485/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Notable Deaths 2021: Stage and Screen","status":1,"alt":null,"src":"https://static01.nyt.com/images/2021/12/01/obituaries/29Dahl2/29Dahl2-square320-v2.jpg","source":"nytime","menu":"obituaries","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/02/obituaries/02NOTABLEDEATHS-STAGE-SCREEN/02NOTABLEDEATHS-STAGE-SCREEN-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/obituaries/notable-deaths-stage-screen.html","description":"Remembering Stephen Sondheim, Melvin Van Peebles, Olympia Dukakis, Michael K. Williams, Cicely Tyson, Tempest Storm, Jackie Mason, Jean-Paul Belmondo, Norm Macdonald and many others who died this year.","country":"us","create_time":"2021-12-02T14:50:52.000Z","content":"[]","href_hash":"41bd96d653c211ec837b352508947485"}}]}},"pageContext":{"slug":"41bd96d653c211ec837b352508947485"}},
-    "staticQueryHashes": ["3649515864","764694655"]}

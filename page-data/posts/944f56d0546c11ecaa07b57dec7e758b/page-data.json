@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/944f56d0546c11ecaa07b57dec7e758b/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"5 Minutes to Make You Love Classical Music","status":1,"alt":"Maya Salam","src":"https://static01.nyt.com/images/2018/07/19/admin/author-maya-salam/author-maya-salam-thumbStandard-v3.jpg","source":"nytime","menu":"arts","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/30/autossell/02fiveminutes-violin-gif-articleLarge-v2/02fiveminutes-violin-gif-articleLarge-v2-thumbWide.jpg","href":"https://www.nytimes.com/interactive/2021/12/03/arts/music/five-minutes-classical.html","description":"What are the five minutes you’d play to make a friend fall in love with classical music? That’s what we’ve been asking artists and other notable people all year.","country":"us","create_time":"2021-12-03T11:10:17.000Z","content":"[]","href_hash":"944f56d0546c11ecaa07b57dec7e758b"}}]}},"pageContext":{"slug":"944f56d0546c11ecaa07b57dec7e758b"}},
-    "staticQueryHashes": ["3649515864","764694655"]}

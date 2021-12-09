@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/07565ce4550a11ecac7cd9dca55f487d/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Omicron and Vaccine Protection","status":1,"alt":"Andrew Jacobs","src":"https://static01.nyt.com/images/2021/12/03/science/author-andrew-jacobs/author-andrew-jacobs-thumbStandard-v2.jpg","source":"nytime","menu":"health","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/03/science/BURST-omicron-vaccines1/BURST-omicron-vaccines1-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/12/03/health/covid-vaccines-omicron-what-to-know.html","description":"The newly identified Omicron variant has raised concerns about whether the existing vaccines will still be effective. Here’s what to know for now.","country":"us","create_time":"2021-12-04T05:57:31.000Z","content":"[]","href_hash":"07565ce4550a11ecac7cd9dca55f487d"}}]}},"pageContext":{"slug":"07565ce4550a11ecac7cd9dca55f487d"}},
-    "staticQueryHashes": ["3649515864","764694655"]}

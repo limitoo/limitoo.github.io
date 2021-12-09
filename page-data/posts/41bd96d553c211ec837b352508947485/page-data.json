@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/41bd96d553c211ec837b352508947485/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Notable Deaths 2021: Sports","status":1,"alt":null,"src":"https://static01.nyt.com/images/2021/11/30/obituaries/29Elder1/merlin_186126192_49b4769c-39ea-4039-a4a8-01855348d4ec-square320.jpg","source":"nytime","menu":"obituaries","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/02/obituaries/02NOTABLEDEATHS-SPORTS/02NOTABLEDEATHS-SPORTS-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/obituaries/notable-deaths-sports.html","description":"Remembering Hank Aaron, Elgin Baylor, Tommy Lasorda, Leon Spinks, Arlene Pieper Stine, Don Sutton, Milkha Singh, Sam Huff and many others who died this year.","country":"us","create_time":"2021-12-02T14:50:51.000Z","content":"[]","href_hash":"41bd96d553c211ec837b352508947485"}}]}},"pageContext":{"slug":"41bd96d553c211ec837b352508947485"}},
-    "staticQueryHashes": ["3649515864","764694655"]}

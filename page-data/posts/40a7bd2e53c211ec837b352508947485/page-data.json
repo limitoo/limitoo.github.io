@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/40a7bd2e53c211ec837b352508947485/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Notable Deaths 2021: Books","status":1,"alt":null,"src":"https://static01.nyt.com/images/2021/11/28/obituaries/28Setouchi-obit1/24Setouchi1-square320.jpg","source":"nytime","menu":"obituaries","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/02/obituaries/023NOTABLEDEATHS-BOOKS/023NOTABLEDEATHS-BOOKS-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/obituaries/notable-deaths-books.html","description":"Remembering Larry McMurtry, Beverly Cleary, Lawrence Ferlinghetti, Janet Malcolm, Charles W. Mills, Hans Küng and many others who died this year.","country":"us","create_time":"2021-12-02T14:50:43.000Z","content":"[]","href_hash":"40a7bd2e53c211ec837b352508947485"}}]}},"pageContext":{"slug":"40a7bd2e53c211ec837b352508947485"}},
-    "staticQueryHashes": ["3649515864","764694655"]}

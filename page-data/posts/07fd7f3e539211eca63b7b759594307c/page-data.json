@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/07fd7f3e539211eca63b7b759594307c/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Homes for Sale in New York and New Jersey","status":1,"alt":"","src":"https://static01.nyt.com/images/2021/12/03/realestate/02-OTM-REGION-slide-HX5M/02-OTM-REGION-slide-HX5M-articleLarge.jpg?quality=75&auto=webp&disable=upscale","source":"nytime","menu":"nyregion","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/03/realestate/02-OTM-REGION-slide-HX5M/02-OTM-REGION-slide-HX5M-videoLarge.jpg","href":"https://www.nytimes.com/2021/12/02/realestate/housing-market-near-nyc.html","description":"This week’s homes are a five-bedroom homes in Oyster Bay Cove, N.Y., and Cherry Hill, N.J.","country":"us","create_time":"2021-12-02T09:06:14.000Z","content":"[\"Click on the slide show to see this week\\u2019s featured properties:\"]","href_hash":"07fd7f3e539211eca63b7b759594307c"}}]}},"pageContext":{"slug":"07fd7f3e539211eca63b7b759594307c"}},
-    "staticQueryHashes": ["3649515864","764694655"]}
