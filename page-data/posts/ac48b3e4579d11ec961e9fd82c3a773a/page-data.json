@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/ac48b3e4579d11ec961e9fd82c3a773a/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"All the COVID news you need from across Australia","status":1,"alt":"Play Video","src":"https://live-production.wcms.abc-cdn.net.au/7aac14dfe5f99d86784d4fc480919d97","source":"abc","menu":"au","local_src":"","load_img":"","img_url":"https://live-production.wcms.abc-cdn.net.au/d5ae5881bf20598508f060c8e7080121","href":"https://www.abc.net.au/news/2021-12-08/coronavirus-blog-december-8-nt-nsw-qld-sa-omicron/100681242","description":"Get up to speed on all the coronavirus news from across Australia. Follow live.","country":"au","create_time":"2021-12-07T20:39:06.000Z","content":"[\"Get up to speed on all the coronavirus news from across Australia.\", \"Follow our live blog below for all of Wednesday's updates.\"]","href_hash":"ac48b3e4579d11ec961e9fd82c3a773a"}}]}},"pageContext":{"slug":"ac48b3e4579d11ec961e9fd82c3a773a"}},
-    "staticQueryHashes": ["3649515864","764694655"]}

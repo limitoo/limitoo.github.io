@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/41bd96d753c211ec837b352508947485/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Notable Deaths 2021: Arts and Styles","status":1,"alt":null,"src":"https://static01.nyt.com/images/2021/11/29/obituaries/25weinstock-7/25weinstock-7-square320.jpg","source":"nytime","menu":"obituaries","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/02/obituaries/02NOTABLEDEATHS-ART-STYLE/02NOTABLEDEATHS-ART-STYLE-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/obituaries/notable-deaths-arts-styles.html","description":"Remembering Chuck Close, Virgil Abloh, Elsa Peretti, S. Clay Wilson, Toko Shinoda, Hiro and many others who died this year.","country":"us","create_time":"2021-12-02T14:50:54.000Z","content":"[]","href_hash":"41bd96d753c211ec837b352508947485"}}]}},"pageContext":{"slug":"41bd96d753c211ec837b352508947485"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
