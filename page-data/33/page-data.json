@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-list-js",
+    "path": "/33",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Limitoo News"}},"allMysqlLists":{"edges":[{"node":{"title":"Rohingya Refugees Sue Meta for $150B, Say Failure to Stop Hate Speech Led to Genocide","href_hash":"670c49e6578f11eca2dfbdc51875af7c","status":1,"src":"https://d.newsweek.com/en/full/1947007/facebook-logo.webp","source":"newsweek","menu":"world","local_src":"","load_img":"","img_url":"https://d.newsweek.com/en/full/1947007/facebook-logo.webp","href":"https://www.newsweek.com//rohingya-refugees-sue-meta-150b-say-failure-stop-hate-speech-led-genocide-1656988","description":"The lawsuit says Facebook spread misinformation and hate speech that \"amounted to a substantial cause, and eventual perpetuation of, the Rohingya genocide.\"","country":"us","create_time":"2021-12-07T18:57:11.000Z"}}]}},"pageContext":{"limit":30,"skip":960,"numPages":33,"currentPage":33}},
+    "staticQueryHashes": ["3649515864","764694655"]}
