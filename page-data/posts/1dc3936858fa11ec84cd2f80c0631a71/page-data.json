@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/1dc3936858fa11ec84cd2f80c0631a71/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Homes for Sale in Brooklyn and Manhattan","status":1,"alt":"","src":"https://static01.nyt.com/images/2021/12/12/realestate/09otm-nyc-slide-RAEC/09otm-nyc-slide-RAEC-articleLarge.jpg?quality=75&auto=webp&disable=upscale","source":"nytime","menu":"nyregion","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/12/realestate/09otm-nyc-slide-TEID/09otm-nyc-slide-TEID-videoLarge.jpg","href":"https://www.nytimes.com/2021/12/09/realestate/housing-market-nyc.html","description":"This week’s properties are in Bay Ridge, on the Upper East Side and in Washington Heights.","country":"us","create_time":"2021-12-09T14:13:55.000Z","content":"[\"Click on the slide show to see this week\\u2019s featured properties:\", \"Additional reporting by Sydney Franklin.\"]","href_hash":"1dc3936858fa11ec84cd2f80c0631a71"}}]}},"pageContext":{"slug":"1dc3936858fa11ec84cd2f80c0631a71"}},
+    "staticQueryHashes": ["3649515864","764694655"]}

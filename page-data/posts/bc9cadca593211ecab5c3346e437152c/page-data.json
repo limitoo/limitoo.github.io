@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/bc9cadca593211ecab5c3346e437152c/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"All of today's coronavirus news in the one spot","status":1,"alt":"Play Video","src":"https://live-production.wcms.abc-cdn.net.au/7aac14dfe5f99d86784d4fc480919d97","source":"abc","menu":"au","local_src":"","load_img":"","img_url":"https://live-production.wcms.abc-cdn.net.au/84b7f45f0afb5e296de337f74b056bf7","href":"https://www.abc.net.au/news/2021-12-10/covid-blog-live-updates-pfizer-vaccine-omicron-variant-booster/100688650","description":"Get up to speed on all the coronavirus news from across Australia.","country":"au","create_time":"2021-12-09T20:58:35.000Z","content":"[\"Pharmaceutical giant Pfizer says a fourth shot of the coronavirus vaccine could be needed within 12 months of the third dose in order to target the Omicron variant.\", \"Follow today's events as they happen.\"]","href_hash":"bc9cadca593211ecab5c3346e437152c"}}]}},"pageContext":{"slug":"bc9cadca593211ecab5c3346e437152c"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
