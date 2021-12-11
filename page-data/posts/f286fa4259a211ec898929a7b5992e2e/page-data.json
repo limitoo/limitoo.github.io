@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/f286fa4259a211ec898929a7b5992e2e/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"A Lost World Emerges in the Pages of a Teenager’s Diary","status":1,"alt":null,"src":"https://static01.nyt.com/images/2021/12/10/books/review/Krimstein-09/Krimstein-09-articleLarge.jpg?quality=75&auto=webp&disable=upscale","source":"nytime","menu":"arts","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/10/books/review/Krimstein-09/Krimstein-09-videoLarge.jpg","href":"https://www.nytimes.com/2021/12/10/books/a-lost-world-emerges-in-the-pages-of-a-teenagers-diary.html","description":"The graphic novelist Ken Krimstein illustrates the stories that were revealed when a trove of prewar personal accounts from Jewish teenagers was discovered.","country":"us","create_time":"2021-12-10T10:23:00.000Z","content":"[]","href_hash":"f286fa4259a211ec898929a7b5992e2e"}}]}},"pageContext":{"slug":"f286fa4259a211ec898929a7b5992e2e"}},
+    "staticQueryHashes": ["3649515864","764694655"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/1c96d7d459db11ecba35c9aa37bfccc4/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"All Decked Out in Fir: The Intricacies of the Sidewalk Christmas Tree","status":1,"alt":null,"src":"https://static01.nyt.com/images/2021/12/10/business/oakImage-1639144562201/oakImage-1639144562201-articleLarge.jpg?quality=75&auto=webp&disable=upscale","source":"nytime","menu":"business","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/10/business/10scratch-promo/10scratch-promo-videoLarge.jpg","href":"https://www.nytimes.com/2021/12/10/business/all-decked-out-in-fir-the-intricacies-of-the-sidewalk-christmas-tree.html","description":"“There’s a lot going on behind me selling Christmas trees on the street.”","country":"us","create_time":"2021-12-10T17:04:30.000Z","content":"[]","href_hash":"1c96d7d459db11ecba35c9aa37bfccc4"}}]}},"pageContext":{"slug":"1c96d7d459db11ecba35c9aa37bfccc4"}},
+    "staticQueryHashes": ["3649515864","764694655"]}

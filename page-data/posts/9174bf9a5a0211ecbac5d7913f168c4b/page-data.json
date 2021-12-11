@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/9174bf9a5a0211ecbac5d7913f168c4b/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"5 Songs to Listen to Right Now","status":1,"alt":"Jon Pareles","src":"https://static01.nyt.com/images/2018/06/14/multimedia/author-jon-pareles/author-jon-pareles-thumbStandard.png","source":"nytime","menu":"arts","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/10/multimedia/10pop-burst1/10pop-burst1-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/12/10/arts/music/pop-recommendations-mary-j-blige.html","description":"Here are five new and notable songs, including vintage-style soul from Mary J. Blige and an era-straddling Tame Impala production.","country":"us","create_time":"2021-12-10T21:46:40.000Z","content":"[]","href_hash":"9174bf9a5a0211ecbac5d7913f168c4b"}}]}},"pageContext":{"slug":"9174bf9a5a0211ecbac5d7913f168c4b"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
