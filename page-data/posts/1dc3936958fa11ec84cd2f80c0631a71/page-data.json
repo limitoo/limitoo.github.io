@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/1dc3936958fa11ec84cd2f80c0631a71/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Homes for Sale in New York and Connecticut","status":1,"alt":"","src":"https://static01.nyt.com/images/2021/12/12/realestate/09otm-region-slide-F49Z/09otm-region-slide-F49Z-articleLarge.jpg?quality=75&auto=webp&disable=upscale","source":"nytime","menu":"nyregion","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/12/realestate/09otm-region-slide-F49Z/09otm-region-slide-F49Z-videoLarge.jpg","href":"https://www.nytimes.com/2021/12/09/realestate/housing-market-near-nyc.html","description":"This week’s properties are in Stamford, Conn., and New Rochelle, N.Y.","country":"us","create_time":"2021-12-09T14:13:57.000Z","content":"[\"Click on the slide show to see this week\\u2019s featured properties:\"]","href_hash":"1dc3936958fa11ec84cd2f80c0631a71"}}]}},"pageContext":{"slug":"1dc3936958fa11ec84cd2f80c0631a71"}},
-    "staticQueryHashes": ["3649515864","764694655"]}
