@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/f286fa4359a211ec898929a7b5992e2e/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"5 Things to Do This Weekend","status":1,"alt":"Danielle Dowling","src":"https://static01.nyt.com/images/2021/08/11/arts/author-danielle-dowling/author-danielle-dowling-thumbStandard.jpg","source":"nytime","menu":"arts","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/10/arts/10wkd-ttd-West-Side/10wkd-ttd-West-Side-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/12/10/arts/weekend-editors-picks-west-side-story.html","description":"Selections from the current Weekend section, including a review of “West Side Story.” ","country":"us","create_time":"2021-12-10T10:23:04.000Z","content":"[]","href_hash":"f286fa4359a211ec898929a7b5992e2e"}}]}},"pageContext":{"slug":"f286fa4359a211ec898929a7b5992e2e"}},
-    "staticQueryHashes": ["3649515864","764694655"]}

@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/d7c2c47859c211ecacab5bef690c8c7f/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Where Do Your Spices Come From?","status":1,"alt":"Aina J. Khan","src":"https://static01.nyt.com/images/2021/10/07/world/author-Aina-J-Khan/author-Aina-J-Khan-thumbStandard-v2.jpg","source":"nytime","menu":"world","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/09/autossell/09international-zanzibar/09international-zanzibar-videoLarge.png","href":"https://www.nytimes.com/interactive/2021/12/10/world/africa/zanzibar-spices-chai.html","description":"I visited a spice farm in Zanzibar, an archipelago off the east coast of Tanzania. Here's what I learned.","country":"us","create_time":"2021-12-10T14:10:55.000Z","content":"[]","href_hash":"d7c2c47859c211ecacab5bef690c8c7f"}}]}},"pageContext":{"slug":"d7c2c47859c211ecacab5bef690c8c7f"}},
-    "staticQueryHashes": ["3649515864","764694655"]}

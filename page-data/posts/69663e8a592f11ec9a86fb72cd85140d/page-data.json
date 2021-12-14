@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/69663e8a592f11ec9a86fb72cd85140d/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"U.S. Coronavirus Cases Continue to Rise","status":1,"alt":"Mitch Smith","src":"https://static01.nyt.com/images/2018/09/10/multimedia/author-mitch-smith/author-mitch-smith-thumbStandard.png","source":"nytime","menu":"us","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/09/autossell/VIRUS-COVID-BURST-COVER/VIRUS-COVID-BURST-COVER-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/12/09/us/covid-data-united-states.html","description":"The latest news and data from the team tracking the coronavirus.","country":"us","create_time":"2021-12-09T20:35:30.000Z","content":"[]","href_hash":"69663e8a592f11ec9a86fb72cd85140d"}}]}},"pageContext":{"slug":"69663e8a592f11ec9a86fb72cd85140d"}},
-    "staticQueryHashes": ["3649515864","764694655"]}
