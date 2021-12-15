@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/44b0bd285a6b11ecbe906fd414f47516/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"R.T.O. Plans Get Upended. Again.","status":1,"alt":"Emma Goldberg","src":"https://static01.nyt.com/images/2020/10/20/nyregion/author-emma-goldberg/author-emma-goldberg-thumbStandard.jpg","source":"nytime","menu":"business","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/11/multimedia/11RTO-01/11RTO-01-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/12/11/business/rto-lyft-google-cnn.html","description":"It’s a tale as old as 2020: The C.E.O. says workers will return to the office, only to see that plan capsized by Covid.","country":"us","create_time":"2021-12-11T10:16:34.000Z","content":"[]","href_hash":"44b0bd285a6b11ecbe906fd414f47516"}}]}},"pageContext":{"slug":"44b0bd285a6b11ecbe906fd414f47516"}},
-    "staticQueryHashes": ["3649515864","764694655"]}
