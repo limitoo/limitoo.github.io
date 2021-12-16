@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/b9f66f705bfd11ecb2a93fe36035ae40/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Can We Have a Meaningful Life in a Virtual World?","status":1,"alt":null,"src":"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7","source":"nytime","menu":"magazine","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/19/magazine/19mag-talk/19mag-talk-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/12/13/magazine/david-j-chalmers-interview.html","description":"“Am I dipping into the spiritual realm and the infinite game of life? Damn right I am.”","country":"us","create_time":"2021-12-13T10:17:10.000Z","content":"[]","href_hash":"b9f66f705bfd11ecb2a93fe36035ae40"}}]}},"pageContext":{"slug":"b9f66f705bfd11ecb2a93fe36035ae40"}},
-    "staticQueryHashes": ["3649515864","764694655"]}
