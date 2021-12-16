@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-list-js",
+    "path": "/33",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Limitoo News"}},"allMysqlLists":{"edges":[{"node":{"title":"Democrats Set Debt Limit Increase at $2.5 Trillion Ahead of Senate Vote","href_hash":"968d83025cfc11eca309314930a1abf4","status":1,"src":"https://static01.nyt.com/images/2021/12/14/us/politics/14dc-debt/merlin_199231815_e4ce4d19-fd80-4eb8-a681-c611beec2e29-articleLarge.jpg?quality=75&auto=webp&disable=upscale","source":"nytime","menu":"us","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/14/us/politics/14dc-debt/merlin_199231815_e4ce4d19-fd80-4eb8-a681-c611beec2e29-videoLarge.jpg","href":"https://www.nytimes.com/2021/12/14/us/politics/debt-limit.html","description":"The figure would allow the government to continue borrowing to finance its obligations without further action by Congress until after the 2022 midterm elections.","country":"us","create_time":"2021-12-14T16:41:46.000Z"}}]}},"pageContext":{"limit":30,"skip":960,"numPages":33,"currentPage":33}},
+    "staticQueryHashes": ["3649515864","764694655"]}
