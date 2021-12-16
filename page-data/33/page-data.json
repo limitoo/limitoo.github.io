@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-list-js",
-    "path": "/33",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Limitoo News"}},"allMysqlLists":{"edges":[{"node":{"title":"Pardon backlog frustrates thousands seeking to clear their names","href_hash":"be756a745cfc11eca309314930a1abf4","status":1,"src":"","source":"cbsnews","menu":"us","local_src":"","load_img":"","img_url":"https://cbsnews3.cbsistatic.com/hub/i/r/2021/12/14/6fab77a3-1256-44ca-89ac-b2fbe7fbba8a/thumbnail/640x360/0ed972917aef1c20452d143cfe7a1bdf/cover-option-pardons-1.jpg#","href":"https://www.cbsnews.com/news/presidential-pardon-clemency/","description":"\"Everywhere I go there will be background checks and I don't want that to be a hindrance for my future,\" one woman says.","country":"us","create_time":"2021-12-14T16:44:03.000Z"}}]}},"pageContext":{"limit":30,"skip":960,"numPages":33,"currentPage":33}},
-    "staticQueryHashes": ["3649515864","764694655"]}
