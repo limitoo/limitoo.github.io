@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-list-js",
-    "path": "/32",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Limitoo News"}},"allMysqlLists":{"edges":[{"node":{"title":"NCEA exams attendance below half in Auckland","href_hash":"2eddbc475d4111ecada08d1a54dd2ca2","status":1,"src":"https://www.rnz.co.nz/assets/news_crops/135664/eight_col_150665915_l.jpg?1639521256","source":"rnz","menu":"national","local_src":"","load_img":"","img_url":"https://www.rnz.co.nz/assets/news_crops/135664/three_col_150665915_l.jpg?1639521256","href":"https://www.rnz.co.nz/news/national/457969/high-school-ncea-exams-attendance-below-half-in-auckland","description":"The low attendance was due to a new rule that ensured students in Auckland, and also those in Northland and parts of Waikato, automatically received an unexpected event grade.","country":"nz","create_time":"2021-12-15T00:52:29.000Z"}}]}},"pageContext":{"limit":30,"skip":930,"numPages":32,"currentPage":32}},
-    "staticQueryHashes": ["3649515864","764694655"]}
