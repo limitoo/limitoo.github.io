@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/d393d4cd5de711eca6319d8af9c331e2/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"All the COVID news you need from across Australia","status":1,"alt":"Play Video","src":"https://live-production.wcms.abc-cdn.net.au/7aac14dfe5f99d86784d4fc480919d97","source":"abc","menu":"au","local_src":"","load_img":"","img_url":"https://live-production.wcms.abc-cdn.net.au/dc0f1a9c6a642722d442a51243773b9a","href":"https://www.abc.net.au/news/2021-12-16/covid-live-updates-press-conference-omicron-vaccine-borders/100703940","description":"Get up to speed with all of the coronavirus news from across Australia with our COVID blog. Follow live.","country":"au","create_time":"2021-12-15T20:45:06.000Z","content":"[\"Get up to speed\\u00a0with all of\\u00a0the coronavirus news from across Australia with our live COVID blog.\", \"Follow today's events from around the country as they happen.\"]","href_hash":"d393d4cd5de711eca6319d8af9c331e2"}}]}},"pageContext":{"slug":"d393d4cd5de711eca6319d8af9c331e2"}},
-    "staticQueryHashes": ["3649515864","764694655"]}
