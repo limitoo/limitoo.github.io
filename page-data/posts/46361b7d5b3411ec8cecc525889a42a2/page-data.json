@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/46361b7d5b3411ec8cecc525889a42a2/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"An East Side Sondheim Story","status":1,"alt":"Agnes Lee","src":"https://static01.nyt.com/images/2021/11/16/nyregion/author-agnes-lee/author-agnes-lee-thumbStandard.jpg","source":"nytime","menu":"nyregion","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/12/nyregion/12diary-illos-burst/12diary-illos-burst-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/12/12/nyregion/metropolitan-diary-sondheim.html","description":"After a car crash, a New York legend offers his help, from this week's Metropolitan Diary.","country":"us","create_time":"2021-12-12T02:15:24.000Z","content":"[]","href_hash":"46361b7d5b3411ec8cecc525889a42a2"}}]}},"pageContext":{"slug":"46361b7d5b3411ec8cecc525889a42a2"}},
+    "staticQueryHashes": ["3649515864","764694655"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/c84220005ac811ec95d049883ff49398/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"All of today's coronavirus news in the one spot","status":1,"alt":"Play Video","src":"https://live-production.wcms.abc-cdn.net.au/7aac14dfe5f99d86784d4fc480919d97","source":"abc","menu":"au","local_src":"","load_img":"","img_url":"https://live-production.wcms.abc-cdn.net.au/fbf3997a60bb276e24e164e5845c68d8","href":"https://www.abc.net.au/news/2021-12-12/covid-live-updates-omicron-booster-vaccines/100693606","description":"Get up to speed with all of the coronavirus news from across Australia in our live COVID blog.","country":"au","create_time":"2021-12-11T13:25:12.000Z","content":"[\"Get up to speed\\u00a0with all of\\u00a0the coronavirus news from across Australia in our live COVID blog.\", \"Follow today's events from around the country as they happen.\"]","href_hash":"c84220005ac811ec95d049883ff49398"}}]}},"pageContext":{"slug":"c84220005ac811ec95d049883ff49398"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
