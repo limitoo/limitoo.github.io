@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/a61ed5b85d6611ec9ff21f4b3757d253/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"The Year in Pictures 2021","status":1,"alt":null,"src":"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7","source":"nytime","menu":"world","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/11/19/lens/YIP2021-MARCH1/merlin_185684064_e76ebfb3-02bb-4adf-837b-50b51477bed3-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/world/year-in-pictures.html","description":"While many people, fearing the virus, continued to stay close to home, photographers traveled the world, documenting the world‘s turmoil and triumphs.","country":"us","create_time":"2021-12-14T21:21:02.000Z","content":"[]","href_hash":"a61ed5b85d6611ec9ff21f4b3757d253"}}]}},"pageContext":{"slug":"a61ed5b85d6611ec9ff21f4b3757d253"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
