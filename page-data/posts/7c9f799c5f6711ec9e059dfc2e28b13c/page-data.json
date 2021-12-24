@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/7c9f799c5f6711ec9e059dfc2e28b13c/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Streaming the Year’s Best Documentaries","status":1,"alt":"David Renard","src":"https://static01.nyt.com/images/2019/06/05/multimedia/05now-tlogo/05now-tlogo-thumbStandard-v2.png","source":"nytime","menu":"arts","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/17/multimedia/17burst-docs1/17burst-docs1-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/12/17/movies/best-documentaries-streaming.html","description":"The best movies of 2021 were even better on a big screen, The Times’s co-chief film critics wrote at year’s end. But many of their top picks are available to stream — like these five documentaries.","country":"us","create_time":"2021-12-17T10:31:41.000Z","content":"[]","href_hash":"7c9f799c5f6711ec9e059dfc2e28b13c"}}]}},"pageContext":{"slug":"7c9f799c5f6711ec9e059dfc2e28b13c"}},
-    "staticQueryHashes": ["3649515864","764694655"]}
