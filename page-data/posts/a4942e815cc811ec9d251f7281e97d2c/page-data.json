@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/a4942e815cc811ec9d251f7281e97d2c/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"If Roe Is Reversed, by the Numbers","status":1,"alt":"Margot Sanger-Katz","src":"https://static01.nyt.com/images/2019/12/13/reader-center/author-margot-sanger-katz/author-margot-sanger-katz-thumbStandard.png","source":"nytime","menu":"upshot","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/10/multimedia/10up-abor3/10up-abor3-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/12/14/upshot/abortion-roe-wade-numbers.html","description":"The Supreme Court is considering overturning Roe v. Wade. Here’s how that could play out numerically.","country":"us","create_time":"2021-12-14T02:29:35.000Z","content":"[]","href_hash":"a4942e815cc811ec9d251f7281e97d2c"}}]}},"pageContext":{"slug":"a4942e815cc811ec9d251f7281e97d2c"}},
-    "staticQueryHashes": ["3649515864","764694655"]}
