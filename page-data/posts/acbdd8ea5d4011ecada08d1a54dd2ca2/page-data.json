@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/acbdd8ea5d4011ecada08d1a54dd2ca2/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"How Tech Reveals the ‘Secret Lives’ of Animals","status":1,"alt":"Catrin Einhorn","src":"https://static01.nyt.com/images/2018/07/27/multimedia/author-catrin-einhorn/author-catrin-einhorn-thumbStandard-v4.png","source":"nytime","menu":"science","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/13/climate/00cli-tech-wasp/00cli-tech-cam-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/12/14/climate/tracking-wildlife.html","description":"Tiny sensors can help scientists track and learn about some wildlife, before it disappears.","country":"us","create_time":"2021-12-14T16:49:01.000Z","content":"[]","href_hash":"acbdd8ea5d4011ecada08d1a54dd2ca2"}}]}},"pageContext":{"slug":"acbdd8ea5d4011ecada08d1a54dd2ca2"}},
+    "staticQueryHashes": ["3649515864","764694655"]}

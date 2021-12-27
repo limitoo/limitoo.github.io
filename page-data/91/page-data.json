@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-list-js",
+    "path": "/91",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Limitoo News"}},"allMysqlLists":{"edges":[{"node":{"title":"Your Tuesday Briefing: Almost 800,000 U.S. Covid Deaths","href_hash":"7c3349545c5911eca4acfb055be5a42c","status":1,"src":"https://static01.nyt.com/images/2021/12/14/science/14ambriefing-asia-nl-virus800k/14ambriefing-asia-nl-virus800k-articleLarge.jpg?quality=75&auto=webp&disable=upscale","source":"nytime","menu":"world","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/14/science/14ambriefing-asia-nl-virus800k-promo/14ambriefing-asia-nl-virus800k-videoLarge.jpg","href":"https://www.nytimes.com/2021/12/13/briefing/covid-deaths-jimmy-lai-didi.html","description":"People 65 and older are the most vulnerable.","country":"us","create_time":"2021-12-13T13:14:18.000Z"}}]}},"pageContext":{"limit":30,"skip":2700,"numPages":91,"currentPage":91}},
+    "staticQueryHashes": ["3649515864","764694655"]}
