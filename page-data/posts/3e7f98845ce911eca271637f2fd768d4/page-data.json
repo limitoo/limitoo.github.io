@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/3e7f98845ce911eca271637f2fd768d4/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"How much material from space enters the Earth’s atmosphere on an average day?","status":1,"alt":"A meteor streaks across the sky during the annual Perseid meteor shower.","src":"https://static01.nyt.com/images/2021/12/13/science/13science-quiz-meteor/13science-quiz-meteor-master315.jpg","source":"nytime","menu":"science","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/13/science/13science-quiz-meteor/13science-quiz-meteor-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2021/12/14/science/14sci-quiz.html","description":"Earth is under attack from space dust.","country":"us","create_time":"2021-12-14T14:23:04.000Z","content":"[]","href_hash":"3e7f98845ce911eca271637f2fd768d4"}}]}},"pageContext":{"slug":"3e7f98845ce911eca271637f2fd768d4"}},
-    "staticQueryHashes": ["3649515864","764694655"]}
