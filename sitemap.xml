@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://limitoo.com/posts/1f3af27d6cf011ec8350bb7a1f1c4680/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://limitoo.com/posts/1f3af27c6cf011ec8350bb7a1f1c4680/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://limitoo.com/posts/1dd0f2266cee11ec825563b12b4adfee/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://limitoo.com/posts/10da813c6ced11ec825563b12b4adfee/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://limitoo.com/posts/e9414b886cec11ec825563b12b4adfee/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -1626,6 +1628,7 @@
 <url> <loc>https://limitoo.com/posts/dc94d8b661dc11ecb4996f5ba193d428/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://limitoo.com/posts/5f747df061dc11ecb4996f5ba193d428/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://limitoo.com/posts/e5d8356461da11ec8fb32b2fe1d39587/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://limitoo.com/posts/e4b8bd9861da11ec8fb32b2fe1d39587/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://limitoo.com/posts/d7232b4c61d911ecb4996f5ba193d428/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://limitoo.com/posts/b7081a2a61d911ecb4996f5ba193d428/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://limitoo.com/posts/65d6777861d911ecb4996f5ba193d428/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -2601,8 +2604,6 @@
 <url> <loc>https://limitoo.com/posts/e9270e445de711eca6319d8af9c331e2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://limitoo.com/posts/e621331e5de711eca6319d8af9c331e2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://limitoo.com/posts/d4e027cc5de711eca6319d8af9c331e2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://limitoo.com/posts/d393d4cd5de711eca6319d8af9c331e2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://limitoo.com/posts/d393d4cc5de711eca6319d8af9c331e2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://limitoo.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://limitoo.com/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://limitoo.com/3</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
