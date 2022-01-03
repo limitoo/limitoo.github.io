@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-list-js",
-    "path": "/88",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Limitoo News"}},"allMysqlLists":{"edges":[{"node":{"title":"Met Opera to Mandate Booster Shots for Staff and Audiences","href_hash":"f4734ef05dda11ec9a205968d5375e19","status":1,"src":"https://static01.nyt.com/images/2021/12/15/multimedia/15met-booster1/15met-booster1-articleLarge.jpg?quality=75&auto=webp&disable=upscale","source":"nytime","menu":"nyregion","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2021/12/15/multimedia/15met-booster1/15met-booster1-videoLarge.jpg","href":"https://www.nytimes.com/2021/12/15/arts/music/met-opera-coronavirus-booster-shots-mandate.html","description":"It is the first major performing arts institution to require boosters, as concern mounts over rising coronavirus cases and the spread of the Omicron variant. The rule will take effect Jan. 17.","country":"us","create_time":"2021-12-15T19:13:35.000Z"}}]}},"pageContext":{"limit":30,"skip":2610,"numPages":88,"currentPage":88}},
-    "staticQueryHashes": ["3649515864","764694655"]}
