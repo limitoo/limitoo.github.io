@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/e4b8bd9861da11ec8fb32b2fe1d39587/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"All the COVID news you need from across Australia","status":1,"alt":"Play Video","src":"https://live-production.wcms.abc-cdn.net.au/7aac14dfe5f99d86784d4fc480919d97","source":"abc","menu":"au","local_src":"","load_img":"","img_url":"https://live-production.wcms.abc-cdn.net.au/942a942f2a294564bb654678c0118546","href":"https://www.abc.net.au/news/2021-12-21/covid-live-blog-omicron-national-cabinet-nsw-victoria-new-cases/100715244","description":"Get up to speed on all the coronavirus news from across Australia. Follow live.","country":"au","create_time":"2021-12-20T13:22:29.000Z","content":"[\"Get up to speed on all the coronavirus news from across Australia.\", \"Follow our live blog below for all the latest updates.\\u00a0\"]","href_hash":"e4b8bd9861da11ec8fb32b2fe1d39587"}}]}},"pageContext":{"slug":"e4b8bd9861da11ec8fb32b2fe1d39587"}},
-    "staticQueryHashes": ["3649515864","764694655"]}
