@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/5ca99d8a725311ecab6d31168a0c9136/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"On the Slopes With a Pro Skier","status":1,"alt":"Lauren Jackson","src":"https://static01.nyt.com/images/2020/08/19/reader-center/author-lauren-jackson/author-lauren-jackson-thumbStandard.png","source":"nytime","menu":"travel","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2022/01/10/climate/10cli-Ingrid-1/10cli-Ingrid-1-videoLarge.png","href":"https://www.nytimes.com/interactive/2022/01/10/climate/skiing-climate-change.html","description":"Follow along with a skiier who climbs up the hill before heading back down.","country":"us","create_time":"2022-01-10T12:25:21.000Z","content":"[]","href_hash":"5ca99d8a725311ecab6d31168a0c9136"}}]}},"pageContext":{"slug":"5ca99d8a725311ecab6d31168a0c9136"}},
+    "staticQueryHashes": ["3649515864","764694655"]}

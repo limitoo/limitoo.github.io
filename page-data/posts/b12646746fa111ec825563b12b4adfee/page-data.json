@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/b12646746fa111ec825563b12b4adfee/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"5 Things to Do This Weekend","status":1,"alt":"Danielle Dowling","src":"https://static01.nyt.com/images/2021/08/11/arts/author-danielle-dowling/author-danielle-dowling-thumbStandard.jpg","source":"nytime","menu":"arts","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2022/01/06/arts/weekend-burst-wintertv/merlin_157285380_673a4d66-438d-4d31-a13f-3d3b449fc154-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2022/01/07/arts/weekend-editors-picks-Euphoria.html","description":"Selections from the current Weekend section, including a preview of “Euphoria” and other TV shows coming this winter.","country":"us","create_time":"2022-01-07T02:09:56.000Z","content":"[]","href_hash":"b12646746fa111ec825563b12b4adfee"}}]}},"pageContext":{"slug":"b12646746fa111ec825563b12b4adfee"}},
+    "staticQueryHashes": ["3649515864","764694655"]}

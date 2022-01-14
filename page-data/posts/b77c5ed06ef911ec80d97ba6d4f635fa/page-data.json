@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/b77c5ed06ef911ec80d97ba6d4f635fa/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Homes for Sale in New York and Connecticut","status":1,"alt":"","src":"https://static01.nyt.com/images/2022/01/09/realestate/06OTM-REG-slide-9465/06OTM-REG-slide-9465-articleLarge.jpg?quality=75&auto=webp&disable=upscale","source":"nytime","menu":"realestate","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2022/01/09/realestate/06OTM-REG-slide-9465/06OTM-REG-slide-9465-videoLarge.jpg","href":"https://www.nytimes.com/2022/01/06/realestate/housing-market-near-nyc.html","description":"This week’s homes are a four-bedroom in Westport, Conn., and a three-bedroom in Massapequa, N.Y.","country":"us","create_time":"2022-01-06T06:05:50.000Z","content":"[\"Click on the slide show to see this week\\u2019s featured properties:\"]","href_hash":"b77c5ed06ef911ec80d97ba6d4f635fa"}}]}},"pageContext":{"slug":"b77c5ed06ef911ec80d97ba6d4f635fa"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
