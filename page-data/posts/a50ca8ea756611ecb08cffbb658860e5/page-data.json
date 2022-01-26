@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/a50ca8ea756611ecb08cffbb658860e5/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"The Girl Detective Goes Digital","status":1,"alt":null,"src":"https://static01.nyt.com/images/2022/01/14/books/review/Radtke/Radtke-articleLarge.jpg?quality=75&auto=webp&disable=upscale","source":"nytime","menu":"arts","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2022/01/16/books/review/16BackPage-RADTKE/16BackPage-RADTKE-videoLarge.jpg","href":"https://www.nytimes.com/2022/01/14/books/the-girl-detective-goes-digital.html","description":"The graphic novelist Kristen Radtke imagines Nancy Drew stories if they existed in the age of the internet.","country":"us","create_time":"2022-01-14T10:21:24.000Z","content":"[]","href_hash":"a50ca8ea756611ecb08cffbb658860e5"}}]}},"pageContext":{"slug":"a50ca8ea756611ecb08cffbb658860e5"}},
+    "staticQueryHashes": ["3649515864","764694655"]}

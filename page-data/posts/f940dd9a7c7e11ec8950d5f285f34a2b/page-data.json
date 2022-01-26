@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/f940dd9a7c7e11ec8950d5f285f34a2b/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Stood down Air NZ workers showing COVID-19 symptoms - CEO Greg Foran","status":1,"alt":"","src":null,"source":"newshub","menu":"new-zealand","local_src":"","load_img":"","img_url":null,"href":"https://www.newshub.co.nz/home/new-zealand/2022/01/stood-down-air-nz-workers-showing-covid-19-symptoms-ceo-greg-foran.html","description":"Air NZ CEO Greg Foran says some of the stood down Air NZ workers are showing COVID-19 symptoms.","country":"nz","create_time":"2022-01-23T11:02:51.000Z","content":"[\"Air NZ CEO Greg Foran says some of the stood down Air NZ workers are showing COVID-19 symptoms.\", \"He says he expects there to be more COVID cases among those workers confirmed in the coming days\", \"More to come...\", \"RNZ\"]","href_hash":"f940dd9a7c7e11ec8950d5f285f34a2b"}}]}},"pageContext":{"slug":"f940dd9a7c7e11ec8950d5f285f34a2b"}},
+    "staticQueryHashes": ["3649515864","764694655"]}

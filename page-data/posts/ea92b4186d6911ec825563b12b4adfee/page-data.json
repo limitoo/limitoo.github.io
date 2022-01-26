@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/ea92b4186d6911ec825563b12b4adfee/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"By weight, how much of you is carbon?","status":1,"alt":" ","src":"https://static01.nyt.com/images/2022/01/03/science/03sci-newsletter-quiz/03sci-newsletter-quiz-master315.jpg","source":"nytime","menu":"science","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2022/01/03/science/03sci-newsletter-quiz/03sci-newsletter-quiz-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2022/01/04/science/science-quiz-human-body-carbon.html","description":"Answer this question to learn a bit about what you’re made of.","country":"us","create_time":"2022-01-04T06:26:03.000Z","content":"[]","href_hash":"ea92b4186d6911ec825563b12b4adfee"}}]}},"pageContext":{"slug":"ea92b4186d6911ec825563b12b4adfee"}},
-    "staticQueryHashes": ["3649515864","764694655"]}
