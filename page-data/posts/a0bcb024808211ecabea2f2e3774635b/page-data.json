@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/a0bcb024808211ecabea2f2e3774635b/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"5 Songs to Listen to Right Now","status":1,"alt":"Isabelia Herrera","src":"https://static01.nyt.com/images/2021/11/18/reader-center/author-isabella-herrera/author-isabella-herrera-thumbStandard.jpg","source":"nytime","menu":"arts","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2022/01/28/arts/28playlist-burst1/28playlist-burst1-videoLarge.png","href":"https://www.nytimes.com/interactive/2022/01/28/arts/music/pop-recommendations-raveena.html","description":"Here are five new and notable songs, including retro-future R&B from Raveena, and the satisfying team-up of Rochy RD and Anuel AA.","country":"us","create_time":"2022-01-28T13:39:41.000Z","content":"[]","href_hash":"a0bcb024808211ecabea2f2e3774635b"}}]}},"pageContext":{"slug":"a0bcb024808211ecabea2f2e3774635b"}},
+    "staticQueryHashes": ["3649515864","764694655"]}

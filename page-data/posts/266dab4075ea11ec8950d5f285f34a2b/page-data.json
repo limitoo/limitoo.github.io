@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/266dab4075ea11ec8950d5f285f34a2b/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"The Uncertain Fate of a London Neighborhood","status":1,"alt":"Aina J. Khan","src":"https://static01.nyt.com/images/2021/10/07/world/author-Aina-J-Khan/author-Aina-J-Khan-thumbStandard-v2.jpg","source":"nytime","menu":"world","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2022/01/11/autossell/1/1-threeByTwoSmallAt2X.jpg","href":"https://www.nytimes.com/interactive/2022/01/15/world/brick-lane-london.html","description":"Brick Lane in East London is known for its many Bangladeshi-run businesses. But in the last few years, the neighborhood has drawn notice for its rapid gentrification.","country":"us","create_time":"2022-01-15T02:02:57.000Z","content":"[]","href_hash":"266dab4075ea11ec8950d5f285f34a2b"}}]}},"pageContext":{"slug":"266dab4075ea11ec8950d5f285f34a2b"}},
-    "staticQueryHashes": ["3649515864","764694655"]}

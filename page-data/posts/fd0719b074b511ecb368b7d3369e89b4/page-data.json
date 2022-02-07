@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/fd0719b074b511ecb368b7d3369e89b4/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"All the COVID news you need from across Australia","status":1,"alt":"Play Video","src":"https://live-production.wcms.abc-cdn.net.au/7aac14dfe5f99d86784d4fc480919d97","source":"abc","menu":"au","local_src":"","load_img":"","img_url":"https://live-production.wcms.abc-cdn.net.au/40e0ef87ac13802c6095fd86901d305c","href":"https://www.abc.net.au/news/2022-01-14/covid-live-blog-latest-updates-omicron-rats/100755618","description":"Get up to speed on all the coronavirus news from across Australia. Follow live.","country":"au","create_time":"2022-01-13T13:16:13.000Z","content":"[\"Get up to speed on all the coronavirus news from across Australia.\", \"Follow all of today's news and updates as they\\u00a0unfold\\u00a0in the COVID live\\u00a0blog below.\\u00a0\"]","href_hash":"fd0719b074b511ecb368b7d3369e89b4"}}]}},"pageContext":{"slug":"fd0719b074b511ecb368b7d3369e89b4"}},
-    "staticQueryHashes": ["3649515864","764694655"]}
