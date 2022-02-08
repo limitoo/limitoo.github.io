@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/3fe9cd607bc611ec9b9e5780ca21a17e/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"All the coronavirus news you need from around Australia","status":1,"alt":"Play Video","src":"https://live-production.wcms.abc-cdn.net.au/7aac14dfe5f99d86784d4fc480919d97","source":"abc","menu":"au","local_src":"","load_img":"","img_url":"https://live-production.wcms.abc-cdn.net.au/8db45f24c8f97047d649c534d6d0bf37","href":"https://www.abc.net.au/news/2022-01-23/covid-live-blog-isolation-vaccination-case-numbers/100775308","description":"Get up to speed on the latest coronavirus news in the one place. Follow live.","country":"au","create_time":"2022-01-22T13:00:17.000Z","content":"[\"Get up to speed on the latest coronavirus news in the one place.\", \"Follow today's news and updates on our live blog.\\u00a0\"]","href_hash":"3fe9cd607bc611ec9b9e5780ca21a17e"}}]}},"pageContext":{"slug":"3fe9cd607bc611ec9b9e5780ca21a17e"}},
-    "staticQueryHashes": ["3649515864","764694655"]}

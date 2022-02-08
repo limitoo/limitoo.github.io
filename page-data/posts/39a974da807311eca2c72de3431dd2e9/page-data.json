@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/39a974da807311eca2c72de3431dd2e9/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Recalling the Pain of an Early 19th Century Writer","status":1,"alt":null,"src":"https://static01.nyt.com/images/2022/01/27/books/review/Alison-Barnwell-12/Alison-Barnwell-12-articleLarge.jpg?quality=75&auto=webp&disable=upscale","source":"nytime","menu":"arts","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2022/01/27/books/review/Alison-Barnwell-02/Alison-Barnwell-02-videoLarge.jpg","href":"https://www.nytimes.com/2022/01/28/books/recalling-the-pain-of-an-early-19th-century-writer.html","description":"Stuck in a CT scan, the illustrator Alison Barnwell remembers the horrors recounted by Fanny Burney, who wrote of her mastectomy in excruciating detail.","country":"us","create_time":"2022-01-28T11:49:16.000Z","content":"[]","href_hash":"39a974da807311eca2c72de3431dd2e9"}}]}},"pageContext":{"slug":"39a974da807311eca2c72de3431dd2e9"}},
-    "staticQueryHashes": ["3649515864","764694655"]}
