@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/c10bf8e686c511ec8950d5f285f34a2b/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"All the coronavirus news you need in the one place","status":1,"alt":"Play Video","src":"https://live-production.wcms.abc-cdn.net.au/7aac14dfe5f99d86784d4fc480919d97","source":"abc","menu":"au","local_src":"","load_img":"","img_url":"https://live-production.wcms.abc-cdn.net.au/3dc68bea0a1cec491d753b4b4db1221d","href":"https://www.abc.net.au/news/2022-02-06/covid-live-blog-latest-updates-omicron-rats-boosters/100807940","description":"Get up to speed on all the coronavirus news from across Australia. Follow live.","country":"au","create_time":"2022-02-05T20:54:32.000Z","content":"[\"Get up to speed on all the coronavirus news from across Australia.\", \"Follow all of Sunday's news and updates on our live blog.\"]","href_hash":"c10bf8e686c511ec8950d5f285f34a2b"}}]}},"pageContext":{"slug":"c10bf8e686c511ec8950d5f285f34a2b"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
