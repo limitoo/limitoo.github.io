@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-list-js",
+    "path": "/25",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Limitoo News"}},"allMysqlLists":{"edges":[{"node":{"title":"Stacey Abrams criticized after posing maskless surrounded by masked children","href_hash":"185c010c883f11ec89c953874ff9b676","status":1,"src":"","source":"cbsnews","menu":"entertainment","local_src":"","load_img":"","img_url":"https://cbsnews3.cbsistatic.com/hub/i/r/2021/05/08/dbc85c39-106e-485f-ac04-2aa65b1e7a3c/thumbnail/640x360/55af9549a57192207a2fce66e212032c/stacey-abrams-interview-1280.jpg#","href":"https://www.cbsnews.com/news/stacey-abrams-criticzed-maskless-photo-children/","description":"The Georgia gubernatorial candidate called the criticism \"silly\" and a \"false political attack.\"","country":"us","create_time":"2022-02-07T17:57:08.000Z"}}]}},"pageContext":{"limit":30,"skip":720,"numPages":25,"currentPage":25}},
+    "staticQueryHashes": ["3649515864","764694655"]}
