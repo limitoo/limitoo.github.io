@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-list-js",
-    "path": "/25",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Limitoo News"}},"allMysqlLists":{"edges":[{"node":{"title":"I.R.S. to End Use of Facial Recognition for Identity Verification","href_hash":"64971b22884611eca28ea36df508d0a4","status":1,"src":"https://static01.nyt.com/images/2022/02/07/business/07dc-irs/merlin_188913399_cb40063d-a27d-496a-9c80-bb419b5553c4-articleLarge.jpg?quality=75&auto=webp&disable=upscale","source":"nytime","menu":"us","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2022/02/07/business/07dc-irs/07dc-irs-videoLarge.jpg","href":"https://www.nytimes.com/2022/02/07/us/politics/irs-idme-facial-recognition.html","description":"The tax collection agency will transition away from using a service from the authentication service ID.me amid bipartisan backlash.","country":"us","create_time":"2022-02-07T18:49:16.000Z"}}]}},"pageContext":{"limit":30,"skip":720,"numPages":25,"currentPage":25}},
-    "staticQueryHashes": ["3649515864","764694655"]}
