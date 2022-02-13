@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-list-js",
+    "path": "/25",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Limitoo News"}},"allMysqlLists":{"edges":[{"node":{"title":"IRS to scrap facial-recognition with ID.me following backlash","href_hash":"81676f22885011ecb27a9d8942411fa0","status":1,"src":"","source":"cbsnews","menu":"health","local_src":"","load_img":"","img_url":"https://cbsnews3.cbsistatic.com/hub/i/r/2022/01/11/3d791689-4fb9-4421-a446-dae871b4af40/thumbnail/640x360/e5d92ecef44e104d50af085a845d9dda/cbsn-fusion-irs-warns-of-frustrating-tax-filing-season-ahead-thumbnail-870962-640x360.jpg#","href":"https://www.cbsnews.com/news/irs-id-me-facial-recognition-abandon/","description":"Tax agency backtracks after lawmakers and taxpayers voiced concern that ID system could put personal data at risk.","country":"us","create_time":"2022-02-07T20:01:36.000Z"}}]}},"pageContext":{"limit":30,"skip":720,"numPages":25,"currentPage":25}},
+    "staticQueryHashes": ["3649515864","764694655"]}
