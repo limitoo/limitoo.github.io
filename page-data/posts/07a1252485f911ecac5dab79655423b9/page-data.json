@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/07a1252485f911ecac5dab79655423b9/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Meet the U.S. Figure Skating Team","status":1,"alt":"Juliet Macur","src":"https://static01.nyt.com/images/2021/06/09/sports/author-juliet-macur/author-juliet-macur-thumbStandard.jpg","source":"nytime","menu":"sports","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2022/02/03/sports/00olympics-figure-skating-top/merlin_200060421_5ccf4c7d-0f14-4901-9150-8401628215e4-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2022/02/04/sports/olympics/us-figure-skating-team.html","description":"Figure skating events began even before Beijing’s opening ceremony. Here are the athletes I’ll be watching.","country":"us","create_time":"2022-02-04T12:29:50.000Z","content":"[]","href_hash":"07a1252485f911ecac5dab79655423b9"}}]}},"pageContext":{"slug":"07a1252485f911ecac5dab79655423b9"}},
+    "staticQueryHashes": ["3649515864","764694655"]}

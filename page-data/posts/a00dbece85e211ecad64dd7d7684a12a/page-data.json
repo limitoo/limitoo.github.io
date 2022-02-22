@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/a00dbece85e211ecad64dd7d7684a12a/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Could ‘White Noise’ Be Even More Ominous? Yes.","status":1,"alt":null,"src":"https://static01.nyt.com/images/2022/02/04/books/review/Katzenstein/Katzenstein-articleLarge.jpg?quality=75&auto=webp&disable=upscale","source":"nytime","menu":"arts","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2022/02/04/books/review/Katzenstein/Katzenstein-videoLarge.jpg","href":"https://www.nytimes.com/2022/02/04/books/could-white-noise-be-even-more-ominous-yes.html","description":"Reading Don DeLillo’s masterpiece while sitting in Los Angeles traffic adds an extra level of frisson.","country":"us","create_time":"2022-02-04T09:49:23.000Z","content":"[]","href_hash":"a00dbece85e211ecad64dd7d7684a12a"}}]}},"pageContext":{"slug":"a00dbece85e211ecad64dd7d7684a12a"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
