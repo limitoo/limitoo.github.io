@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/ff0df21a842d11ec8950d5f285f34a2b/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"What to Know Ahead of the Olympics","status":1,"alt":"Andrew Keh","src":"https://static01.nyt.com/images/2019/08/29/reader-center/andrew-keh/andrew-keh-thumbStandard.jpg","source":"nytime","menu":"sports","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2022/02/01/sports/01OLYMPIC-BURST-SKATE/01OLYMPIC-BURST-SKATE-videoLarge-v3.jpg","href":"https://www.nytimes.com/interactive/2022/02/02/sports/olympics/winter-olympics-how-to-watch.html","description":"The 2022 Winter Olympics in Beijing officially begin Friday. I’ll walk you through the latest.","country":"us","create_time":"2022-02-02T05:44:41.000Z","content":"[]","href_hash":"ff0df21a842d11ec8950d5f285f34a2b"}}]}},"pageContext":{"slug":"ff0df21a842d11ec8950d5f285f34a2b"}},
-    "staticQueryHashes": ["3649515864","764694655"]}

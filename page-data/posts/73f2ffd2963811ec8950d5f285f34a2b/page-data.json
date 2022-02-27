@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/posts/73f2ffd2963811ec8950d5f285f34a2b/",
+    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"Worldwide protests after Russia invades Ukraine","status":1,"alt":"","src":"","source":"cbsnews","menu":"politics","local_src":"","load_img":"","img_url":"https://cbsnews2.cbsistatic.com/hub/i/r/2022/02/25/6a4836f3-d6ac-40d2-8f4a-bbd36ae7a610/thumbnail/640x360/15e57bdea8888f16ef94ecbd6308f68e/gettyimages-1238728747.jpg#","href":"https://www.cbsnews.com/pictures/russia-ukraine-invasion-protests/","description":"Hundreds of people in Russia were arrested for protesting the attack, as cities across the world rally in support of Ukraine.","country":"us","create_time":"2022-02-25T04:46:24.000Z","content":"[\"Police officers detain a demonstrator during a protest against Russia's invasion of Ukraine in Moscow on February 24, 2022.\\u00a0\"]","href_hash":"73f2ffd2963811ec8950d5f285f34a2b"}}]}},"pageContext":{"slug":"73f2ffd2963811ec8950d5f285f34a2b"}},
+    "staticQueryHashes": ["3649515864","764694655"]}
