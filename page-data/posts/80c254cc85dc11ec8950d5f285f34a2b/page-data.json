@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/80c254cc85dc11ec8950d5f285f34a2b/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"More Cheddar for Your Bread","status":1,"alt":null,"src":"https://static01.nyt.com/images/2022/02/04/business/oakImage-1643990318483/oakImage-1643990318483-articleLarge.jpg?quality=75&auto=webp&disable=upscale","source":"nytime","menu":"business","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2022/02/04/business/04scratch-promo/04scratch-promo-videoLarge.jpg","href":"https://www.nytimes.com/2022/02/04/business/more-cheddar-for-your-bread.html","description":"“Every single thing that you use has gone up in price —  it’s the containers, the seasonings, the olives!” Nine sandwich vendors talk inflation.","country":"us","create_time":"2022-02-04T09:07:56.000Z","content":"[]","href_hash":"80c254cc85dc11ec8950d5f285f34a2b"}}]}},"pageContext":{"slug":"80c254cc85dc11ec8950d5f285f34a2b"}},
-    "staticQueryHashes": ["3649515864","764694655"]}
