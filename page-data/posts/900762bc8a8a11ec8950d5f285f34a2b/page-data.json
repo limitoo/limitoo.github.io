@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-blog-post-js",
-    "path": "/posts/900762bc8a8a11ec8950d5f285f34a2b/",
-    "result": {"data":{"allMysqlLists":{"edges":[{"node":{"title":"What’s in Our Queue? ‘Abbott Elementary’ and More","status":1,"alt":"Maira Garcia","src":"https://static01.nyt.com/images/2019/06/05/multimedia/05now-tlogo/05now-tlogo-thumbStandard-v2.png","source":"nytime","menu":"arts","local_src":"","load_img":"","img_url":"https://static01.nyt.com/images/2022/02/13/arts/editors-recommendations-abbott-elementary/editors-recommendations-abbott-elementary-videoLarge.jpg","href":"https://www.nytimes.com/interactive/2022/02/10/arts/editors-recommendations-abbott-elementary.html","description":"I’m the audience editor for The Times’s Culture desk. Here are five things I've been watching and listening to.","country":"us","create_time":"2022-02-10T08:02:38.000Z","content":"[]","href_hash":"900762bc8a8a11ec8950d5f285f34a2b"}}]}},"pageContext":{"slug":"900762bc8a8a11ec8950d5f285f34a2b"}},
-    "staticQueryHashes": ["3649515864","764694655"]}
